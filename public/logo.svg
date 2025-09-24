@@ -1,0 +1,50 @@
+<svg width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="title desc"
+    xmlns="http://www.w3.org/2000/svg">
+    <title id="title">Badge with chevron</title>
+    <desc id="desc">Circular badge with a soft gold ring, subtle shadow, and a rounded chevron
+        inside.</desc>
+
+    <!-- subtle drop shadow -->
+    <defs>
+        <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+            <feOffset dy="1" in="SourceAlpha" result="off" />
+            <feGaussianBlur in="off" stdDeviation="1.2" result="blur" />
+            <feColorMatrix in="blur" type="matrix"
+                values="0 0 0 0 0.06  0 0 0 0 0.03  0 0 0 0 0  0 0 0 0.35 0" result="shadowColor" />
+            <feMerge>
+                <feMergeNode in="shadowColor" />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+
+        <!-- gentle gradient for the ring -->
+        <radialGradient id="ringGrad" cx="35%" cy="30%" r="80%">
+            <stop offset="0%" stop-color="#fff8ec" stop-opacity="0.85" />
+            <stop offset="55%" stop-color="#fff0d1" stop-opacity="0.9" />
+            <stop offset="100%" stop-color="#FFE2A8" stop-opacity="1" />
+        </radialGradient>
+
+        <!-- subtle inner gloss -->
+        <linearGradient id="gloss" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0.35" />
+            <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+        </linearGradient>
+    </defs>
+
+    <!-- outer circle with gradient stroke -->
+    <g filter="url(#shadow)">
+        <circle cx="16" cy="16" r="14" fill="#0" fill-opacity="0" stroke="url(#ringGrad)"
+            stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" />
+
+        <!-- inner subtle fill for depth -->
+        <circle cx="16" cy="16" r="11.2" fill="#FFF7EA" fill-opacity="0.6" />
+
+        <!-- gloss overlay -->
+        <ellipse cx="16" cy="12.6" rx="7.2" ry="3.8" fill="url(#gloss)" opacity="0.85" />
+    </g>
+
+    <!-- chevron (rounded, slightly bolder) -->
+    <path d="M11.5 12.5 L16 19 L20.5 12.5" fill="none" stroke="#8A5A00" stroke-width="2.4"
+        stroke-linecap="round" stroke-linejoin="round" />
+
+</svg>
