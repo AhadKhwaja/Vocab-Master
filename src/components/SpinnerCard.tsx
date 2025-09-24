@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Paper, Title, Text, ActionIcon } from "@mantine/core";
+import { Paper, Title, ActionIcon } from "@mantine/core";
 import { IconVolume, IconStarFilled, IconStar } from "@tabler/icons-react";
 import { motion } from "framer-motion";
 import type { Word } from "../App";

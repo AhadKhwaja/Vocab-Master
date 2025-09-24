@@ -41,11 +41,9 @@ export function AppRouter({
   currentPage,
   learningMode,
   category,
-  initialWordId,
   handleModeSelect,
   handleCategorySelect,
   handleGoBack,
-  handleSavedWordSelect,
 }: AppRouterProps) {
   return (
     <AnimatePresence mode="wait">

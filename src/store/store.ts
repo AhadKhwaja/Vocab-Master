@@ -20,7 +20,7 @@ const modules = {
   ...import.meta.glob("../../data/*.json"),
 } as Record<string, () => Promise<{ default: Word[] }>>;
 
-export const useWordStore = create<WordStore>((set, get) => ({
+export const useWordStore = create<WordStore>((set) => ({
   allWords: [],
   savedWords: savedWords,
   loadAllWords: async () => {
@@ -69,7 +69,9 @@ export const useWordStore = create<WordStore>((set, get) => ({
     const merged = wordsData.flat();
 
     // ✅ deduplicate by word.id
-    const unique = Array.from(new Map(merged.map((w) => [w.german, w])).values());
+    const unique = Array.from(
+      new Map(merged.map((w) => [w.german, w])).values()
+    );
 
     set({ allWords: unique });
   },

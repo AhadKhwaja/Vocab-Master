@@ -1,8 +1,6 @@
 import { useState, useEffect } from "react";
 import {
   Container,
-  Paper,
-  Title,
   Text,
   Group,
   Button,
@@ -38,10 +36,12 @@ export function PracticeTypingPage({
       setIsLoading(true);
       try {
         const data = await import(`../data/${category}.json`);
-        setWords(data.default.map((word: Omit<Word, "category">) => ({
-          ...word,
-          category,
-        })));
+        setWords(
+          data.default.map((word: Omit<Word, "category">) => ({
+            ...word,
+            category,
+          }))
+        );
       } catch (error) {
         console.error("Failed to load words:", error);
       } finally {
@@ -55,7 +55,8 @@ export function PracticeTypingPage({
     e.preventDefault();
     if (answerStatus) return; // Prevent multiple submissions
 
-    const correctAnswer = (`${words[currentIndex].article} ${words[currentIndex].german}`).trim();
+    const correctAnswer =
+      `${words[currentIndex].article} ${words[currentIndex].german}`.trim();
 
     // Normalize answers for comparison
     if (userInput.trim().toLowerCase() === correctAnswer.toLowerCase()) {
@@ -123,12 +124,12 @@ export function PracticeTypingPage({
             </svg>
           )}
         </Center>
-        
+
         <SpinnerCard
-            word={currentWord}
-            isFlipped={!isFlipped}
-            onFlip={() => answerStatus && setIsFlipped(!isFlipped)}
-            showGender={true}
+          word={currentWord}
+          isFlipped={!isFlipped}
+          onFlip={() => answerStatus && setIsFlipped(!isFlipped)}
+          showGender={true}
         />
       </div>
 

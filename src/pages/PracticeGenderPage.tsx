@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import {
   Container,
-  Title,
   Text,
   Group,
   Button,
@@ -12,7 +11,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
-import { useWordStore } from "../store/store";
 import type { MantineColor } from "@mantine/core";
 
 type Article = "der" | "die" | "das";
@@ -97,13 +95,6 @@ export function PracticeGenderPage({
     particleCount: 200,
     floorHeight: 1600,
     floorWidth: 1600,
-  };
-
-  const getButtonColor = (article: Article): MantineColor => {
-    if (!answerStatus) return "custom-retro";
-    if (article === currentWord.article) return "custom-retro";
-    if (article === selectedArticle) return "custom-retro";
-    return "custom-retro";
   };
 
   return (

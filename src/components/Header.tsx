@@ -1,4 +1,3 @@
-import React from "react";
 import { Group, Title, ActionIcon, Autocomplete } from "@mantine/core";
 import {
   IconSun,

@@ -6,9 +6,8 @@ import {
   Group,
   Button,
   SimpleGrid,
-  ActionIcon,
 } from "@mantine/core";
-import { IconArrowLeft, IconBook } from "@tabler/icons-react";
+import { IconArrowLeft } from "@tabler/icons-react";
 import type { Word } from "../App";
 import { useWordStore } from "../store/store";
 import { SpinnerCard } from "../components/SpinnerCard";
