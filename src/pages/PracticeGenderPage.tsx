@@ -11,7 +11,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
-import type { MantineColor } from "@mantine/core";
 
 type Article = "der" | "die" | "das";
 
@@ -31,7 +30,6 @@ export function PracticeGenderPage({
   const [answerStatus, setAnswerStatus] = useState<
     "correct" | "incorrect" | null
   >(null);
-  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
 
   useEffect(() => {
     const fetchWords = async () => {
@@ -58,7 +56,6 @@ export function PracticeGenderPage({
     if (answerStatus) return;
 
     const correctArticle = words[currentIndex].article;
-    setSelectedArticle(guess);
 
     if (guess === correctArticle) {
       setAnswerStatus("correct");
@@ -70,7 +67,6 @@ export function PracticeGenderPage({
 
   const handleNext = () => {
     setAnswerStatus(null);
-    setSelectedArticle(null);
     setIsFlipped(false);
     setCurrentIndex((prev) => Math.min(prev + 1, words.length - 1));
   };
