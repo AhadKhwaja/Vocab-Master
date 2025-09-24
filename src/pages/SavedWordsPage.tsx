@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Container,
   Paper,
@@ -7,7 +8,7 @@ import {
   Button,
   SimpleGrid,
 } from "@mantine/core";
-import { IconArrowLeft } from "@tabler/icons-react";
+import { IconArrowLeft, IconDownload, IconUpload } from "@tabler/icons-react";
 import type { Word } from "../App";
 import { useWordStore } from "../store/store";
 import { SpinnerCard } from "../components/SpinnerCard";
@@ -17,8 +18,43 @@ interface SavedWordsPageProps {
 }
 
 export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
-  // Use Zustand store for saved words state
-  const { savedWords } = useWordStore();
+  const { savedWords, allWords, saveWord } = useWordStore();
+
+  const handleDownload = () => {
+    const dataStr = JSON.stringify(savedWords);
+    const dataUri =
+      "data:application/json;charset=utf-8," + encodeURIComponent(dataStr);
+    const exportFileDefaultName = "saved-words.json";
+    const linkElement = document.createElement("a");
+    linkElement.setAttribute("href", dataUri);
+    linkElement.setAttribute("download", exportFileDefaultName);
+    linkElement.click();
+  };
+
+  const handleImport = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const fileReader = new FileReader();
+    const file = event.target.files?.[0];
+
+    if (file) {
+      fileReader.readAsText(file, "UTF-8");
+      fileReader.onload = (e) => {
+        try {
+          const content = JSON.parse(e.target?.result as string);
+          if (Array.isArray(content)) {
+            // Filter out words that are not in allWords to prevent data corruption
+            const validWords = content.filter((importedWord) =>
+              allWords.some((word) => word.id === importedWord.id)
+            );
+            // Save each valid word
+            validWords.forEach((word) => saveWord(word));
+          }
+        } catch (error) {
+          console.error("Failed to parse JSON file:", error);
+          alert("Failed to import file. Please check the file format.");
+        }
+      };
+    }
+  };
 
   return (
     <Container size="md" py="xl">
@@ -31,6 +67,29 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
           Back
         </Button>
         <Title order={1}>Saved Words</Title>
+        <Group>
+          <Button
+            variant="default"
+            onClick={handleDownload}
+            leftSection={<IconDownload />}
+          >
+            Download
+          </Button>
+          <input
+            type="file"
+            id="file-upload"
+            style={{ display: "none" }}
+            onChange={handleImport}
+            accept=".json"
+          />
+          <Button
+            variant="default"
+            onClick={() => document.getElementById("file-upload")?.click()}
+            leftSection={<IconUpload />}
+          >
+            Import
+          </Button>
+        </Group>
       </Group>
 
       {savedWords.length === 0 ? (
@@ -45,7 +104,7 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
               radius="md"
               style={{ cursor: "pointer", height: "200px" }}
             >
-              <SpinnerCard word={word} showGender={true} />
+              <SpinnerCard showGender={true} word={word} />
             </Paper>
           ))}
         </SimpleGrid>
