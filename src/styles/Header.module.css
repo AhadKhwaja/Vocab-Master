@@ -1,0 +1,28 @@
+.headerGroup {
+  background-color: var(--mantine-color-gray-0);
+  padding: 0.5rem 1rem;
+  border-bottom: 4px solid #ff0080;
+  box-shadow: 0 4px 0 #00ffff;
+}
+
+.title {
+  font-family: 'Press Start 2P', monospace;
+  color: #ff0080;
+  text-shadow: 2px 2px #000000;
+  font-size: 1.5rem;
+}
+
+.icon {
+  border: 2px solid #00ffea;
+  background-color: var(--mantine-color-gray-0);
+  border-radius: 4px;
+  color: #00ffea;
+}
+
+.autocompleteInput {
+  border: 2px solid #ff0080;
+  border-radius: 0;
+  font-family: 'Press Start 2P', monospace;
+  color: #ff0080;
+  background-color: #fff0f5;
+}

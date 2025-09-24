@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fam001",
+    "german": "Mutter",
+    "article": "die",
+    "english": "Mother"
+  },
+  {
+    "id": "fam002",
+    "german": "Vater",
+    "article": "der",
+    "english": "Father"
+  },
+  {
+    "id": "fam003",
+    "german": "Kind",
+    "article": "das",
+    "english": "Child"
+  }
+]

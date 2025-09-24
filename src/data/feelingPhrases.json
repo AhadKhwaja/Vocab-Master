@@ -1,0 +1,62 @@
+[
+  {
+    "id": "phr001",
+    "german": "Ich habe Angst.",
+    "english": "I'm afraid.",
+    "emoji": "😨"
+  },
+  {
+    "id": "phr002",
+    "german": "Ich bin müde.",
+    "english": "I am tired.",
+    "emoji": "😴"
+  },
+  {
+    "id": "phr003",
+    "german": "Ich bin glücklich.",
+    "english": "I am happy.",
+    "emoji": "😊"
+  },
+  {
+    "id": "phr004",
+    "german": "Ich bin wütend.",
+    "english": "I am angry.",
+    "emoji": "😠"
+  },
+  {
+    "id": "phr005",
+    "german": "Ich fühle mich schlecht.",
+    "english": "I feel bad.",
+    "emoji": "😔"
+  },
+  {
+    "id": "phr006",
+    "german": "Ich bin verliebt.",
+    "english": "I am in love.",
+    "emoji": "❤️"
+  },
+  {
+    "id": "phr007",
+    "german": "Mir ist langweilig.",
+    "english": "I am bored.",
+    "emoji": "😐"
+  },
+  {
+    "id": "phr008",
+    "german": "Mir geht es gut.",
+    "english": "I'm doing well.",
+    "emoji": "🙂"
+  },
+  {
+    "id": "phr009",
+    "german": "Wie fühlst du dich?",
+    "english": "How are you feeling?",
+    "emoji": "🤔"
+  },
+  {
+    "id": "phr010",
+    "german": "Ich bin nervös wegen...",
+    "english": "I’m nervous about...",
+    "emoji": "😬"
+  }
+]

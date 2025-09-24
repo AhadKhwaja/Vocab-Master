@@ -1,0 +1,76 @@
+[
+  { "id": "adj001", "german": "gut", "english": "good", "emoji": "👍" },
+  { "id": "adj002", "german": "schlecht", "english": "bad", "emoji": "👎" },
+  { "id": "adj003", "german": "groß", "english": "big / tall", "emoji": "📏" },
+  {
+    "id": "adj004",
+    "german": "klein",
+    "english": "small / short",
+    "emoji": "📏"
+  },
+  { "id": "adj005", "german": "schön", "english": "beautiful", "emoji": "😊" },
+  { "id": "adj006", "german": "hässlich", "english": "ugly", "emoji": "😬" },
+  { "id": "adj007", "german": "jung", "english": "young", "emoji": "👶" },
+  { "id": "adj008", "german": "alt", "english": "old", "emoji": "👴" },
+  { "id": "adj009", "german": "neu", "english": "new", "emoji": "✨" },
+  {
+    "id": "adj010",
+    "german": "altmodisch",
+    "english": "old-fashioned",
+    "emoji": "🧓"
+  },
+  { "id": "adj011", "german": "teuer", "english": "expensive", "emoji": "💰" },
+  { "id": "adj012", "german": "billig", "english": "cheap", "emoji": "🪙" },
+  { "id": "adj013", "german": "schnell", "english": "fast", "emoji": "⚡" },
+  { "id": "adj014", "german": "langsam", "english": "slow", "emoji": "🐢" },
+  { "id": "adj015", "german": "laut", "english": "loud", "emoji": "🔊" },
+  { "id": "adj016", "german": "leise", "english": "quiet", "emoji": "🤫" },
+  { "id": "adj017", "german": "stark", "english": "strong", "emoji": "💪" },
+  { "id": "adj018", "german": "schwach", "english": "weak", "emoji": "😩" },
+  { "id": "adj019", "german": "einfach", "english": "easy", "emoji": "✅" },
+  {
+    "id": "adj020",
+    "german": "schwierig",
+    "english": "difficult",
+    "emoji": "❗"
+  },
+  {
+    "id": "adj021",
+    "german": "freundlich",
+    "english": "friendly",
+    "emoji": "😊"
+  },
+  { "id": "adj022", "german": "nett", "english": "nice", "emoji": "🙂" },
+  { "id": "adj023", "german": "gemein", "english": "mean", "emoji": "😠" },
+  {
+    "id": "adj024",
+    "german": "wichtig",
+    "english": "important",
+    "emoji": "❗"
+  },
+  { "id": "adj025", "german": "lecker", "english": "tasty", "emoji": "😋" },
+  { "id": "adj026", "german": "hungrig", "english": "hungry", "emoji": "🤤" },
+  { "id": "adj027", "german": "müde", "english": "tired", "emoji": "😴" },
+  { "id": "adj028", "german": "krank", "english": "sick", "emoji": "🤒" },
+  { "id": "adj029", "german": "gesund", "english": "healthy", "emoji": "💪" },
+  { "id": "adj030", "german": "glücklich", "english": "happy", "emoji": "😊" },
+  { "id": "adj031", "german": "traurig", "english": "sad", "emoji": "😢" },
+  { "id": "adj032", "german": "beschäftigt", "english": "busy", "emoji": "📅" },
+  {
+    "id": "adj033",
+    "german": "frei",
+    "english": "free (available)",
+    "emoji": "⛱️"
+  },
+  { "id": "adj034", "german": "sauber", "english": "clean", "emoji": "🧼" },
+  { "id": "adj035", "german": "schmutzig", "english": "dirty", "emoji": "🧽" },
+  { "id": "adj036", "german": "früh", "english": "early", "emoji": "🌅" },
+  { "id": "adj037", "german": "spät", "english": "late", "emoji": "🌙" },
+  { "id": "adj038", "german": "möglich", "english": "possible", "emoji": "🔄" },
+  {
+    "id": "adj039",
+    "german": "fertig",
+    "english": "ready / done",
+    "emoji": "✅"
+  }
+]

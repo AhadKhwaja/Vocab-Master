@@ -1,0 +1,332 @@
+[
+  {
+    "id": "hobby001",
+    "german": "das Hobby",
+    "english": "hobby",
+    "emoji": "🎯"
+  },
+  {
+    "id": "hobby002",
+    "german": "die Freizeit",
+    "english": "free time",
+    "emoji": "🎉"
+  },
+  {
+    "id": "hobby003",
+    "german": "spielen",
+    "english": "to play",
+    "emoji": "🎲"
+  },
+  {
+    "id": "hobby004",
+    "german": "sammeln",
+    "english": "to collect",
+    "emoji": "🧸"
+  },
+  {
+    "id": "hobby005",
+    "german": "malen",
+    "english": "to paint",
+    "emoji": "🎨"
+  },
+  {
+    "id": "hobby006",
+    "german": "zeichnen",
+    "english": "to draw",
+    "emoji": "✏️"
+  },
+  {
+    "id": "hobby007",
+    "german": "fotografieren",
+    "english": "to take photos",
+    "emoji": "📸"
+  },
+  {
+    "id": "hobby008",
+    "german": "lesen",
+    "english": "to read",
+    "emoji": "📚"
+  },
+  {
+    "id": "hobby009",
+    "german": "schreiben",
+    "english": "to write",
+    "emoji": "✍️"
+  },
+  {
+    "id": "hobby010",
+    "german": "Musik hören",
+    "english": "to listen to music",
+    "emoji": "🎧"
+  },
+  {
+    "id": "hobby011",
+    "german": "singen",
+    "english": "to sing",
+    "emoji": "🎤"
+  },
+  {
+    "id": "hobby012",
+    "german": "tanzen",
+    "english": "to dance",
+    "emoji": "💃"
+  },
+  {
+    "id": "hobby013",
+    "german": "kochen",
+    "english": "to cook",
+    "emoji": "🍳"
+  },
+  {
+    "id": "hobby014",
+    "german": "backen",
+    "english": "to bake",
+    "emoji": "🎂"
+  },
+  {
+    "id": "hobby015",
+    "german": "reisen",
+    "english": "to travel",
+    "emoji": "✈️"
+  },
+  {
+    "id": "hobby016",
+    "german": "spazieren gehen",
+    "english": "to go for a walk",
+    "emoji": "🚶"
+  },
+  {
+    "id": "hobby017",
+    "german": "wandern",
+    "english": "to hike",
+    "emoji": "🥾"
+  },
+  {
+    "id": "hobby018",
+    "german": "joggen",
+    "english": "to jog",
+    "emoji": "🏃"
+  },
+  {
+    "id": "hobby019",
+    "german": "schwimmen",
+    "english": "to swim",
+    "emoji": "🏊"
+  },
+  {
+    "id": "hobby020",
+    "german": "angeln",
+    "english": "to fish",
+    "emoji": "🎣"
+  },
+  {
+    "id": "hobby021",
+    "german": "gärtnern",
+    "english": "to garden",
+    "emoji": "🌱"
+  },
+  {
+    "id": "hobby022",
+    "german": "basteln",
+    "english": "to do crafts",
+    "emoji": "✂️"
+  },
+  {
+    "id": "game001",
+    "german": "das Spiel / die Spiele",
+    "english": "game / games",
+    "emoji": "🎮"
+  },
+  {
+    "id": "game002",
+    "german": "das Brettspiel / die Brettspiele",
+    "english": "board game / board games",
+    "emoji": "🎲"
+  },
+  {
+    "id": "game003",
+    "german": "das Kartenspiel / die Kartenspiele",
+    "english": "card game / card games",
+    "emoji": "🃏"
+  },
+  {
+    "id": "game004",
+    "german": "das Team / die Teams",
+    "english": "team / teams",
+    "emoji": "👥"
+  },
+  {
+    "id": "game005",
+    "german": "der Spieler / die Spieler",
+    "english": "player (m) / players",
+    "emoji": "👦"
+  },
+  {
+    "id": "game006",
+    "german": "die Spielerin / die Spielerinnen",
+    "english": "player (f) / players",
+    "emoji": "👧"
+  },
+  {
+    "id": "game007",
+    "german": "der Sport / die Sportarten",
+    "english": "sport / sports",
+    "emoji": "⚽"
+  },
+  {
+    "id": "game008",
+    "german": "Fußball",
+    "english": "football (soccer)",
+    "emoji": "⚽"
+  },
+  {
+    "id": "game009",
+    "german": "Basketball",
+    "english": "basketball",
+    "emoji": "🏀"
+  },
+  {
+    "id": "game010",
+    "german": "Tennis",
+    "english": "tennis",
+    "emoji": "🎾"
+  },
+  {
+    "id": "game011",
+    "german": "Volleyball",
+    "english": "volleyball",
+    "emoji": "🏐"
+  },
+  {
+    "id": "game012",
+    "german": "Tischtennis",
+    "english": "table tennis",
+    "emoji": "🏓"
+  },
+  {
+    "id": "game013",
+    "german": "laufen",
+    "english": "to run",
+    "emoji": "🏃"
+  },
+  {
+    "id": "game014",
+    "german": "trainieren",
+    "english": "to train",
+    "emoji": "🏋️"
+  },
+  {
+    "id": "game015",
+    "german": "gewinnen",
+    "english": "to win",
+    "emoji": "🏆"
+  },
+  {
+    "id": "game016",
+    "german": "verlieren",
+    "english": "to lose",
+    "emoji": "😓"
+  },
+  {
+    "id": "media001",
+    "german": "das Buch / die Bücher",
+    "english": "book / books",
+    "emoji": "📖"
+  },
+  {
+    "id": "media002",
+    "german": "die Zeitung / die Zeitungen",
+    "english": "newspaper / newspapers",
+    "emoji": "🗞️"
+  },
+  {
+    "id": "media003",
+    "german": "die Zeitschrift / die Zeitschriften",
+    "english": "magazine / magazines",
+    "emoji": "📰"
+  },
+  {
+    "id": "media004",
+    "german": "der Film / die Filme",
+    "english": "movie / movies",
+    "emoji": "🎬"
+  },
+  {
+    "id": "media005",
+    "german": "die Serie / die Serien",
+    "english": "series / series",
+    "emoji": "📺"
+  },
+  {
+    "id": "media006",
+    "german": "das Fernsehen / die Fernsehprogramme",
+    "english": "television / television programs",
+    "emoji": "📺"
+  },
+  {
+    "id": "media007",
+    "german": "die Sendung / die Sendungen",
+    "english": "program / programs",
+    "emoji": "📡"
+  },
+  {
+    "id": "media008",
+    "german": "das Radio / die Radios",
+    "english": "radio / radios",
+    "emoji": "📻"
+  },
+  {
+    "id": "media009",
+    "german": "das Lied / die Lieder",
+    "english": "song / songs",
+    "emoji": "🎵"
+  },
+  {
+    "id": "media010",
+    "german": "die Musik",
+    "english": "music",
+    "emoji": "🎶"
+  },
+  {
+    "id": "media011",
+    "german": "das Konzert / die Konzerte",
+    "english": "concert / concerts",
+    "emoji": "🎤"
+  },
+  {
+    "id": "media012",
+    "german": "das Theater / die Theater",
+    "english": "theater / theaters",
+    "emoji": "🎭"
+  },
+  {
+    "id": "media013",
+    "german": "das Kino / die Kinos",
+    "english": "cinema / cinemas",
+    "emoji": "🎥"
+  },
+  {
+    "id": "media014",
+    "german": "der Schauspieler / die Schauspieler",
+    "english": "actor (m) / actors",
+    "emoji": "🎬"
+  },
+  {
+    "id": "media015",
+    "german": "die Schauspielerin / die Schauspielerinnen",
+    "english": "actor (f) / actors",
+    "emoji": "🎬"
+  },
+  {
+    "id": "media016",
+    "german": "das Publikum / die Publikumsgruppen",
+    "english": "audience / audiences",
+    "emoji": "👥"
+  },
+  {
+    "id": "media017",
+    "german": "das Interview / die Interviews",
+    "english": "interview / interviews",
+    "emoji": "🎙️"
+  }
+]

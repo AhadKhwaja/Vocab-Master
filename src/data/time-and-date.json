@@ -1,0 +1,332 @@
+[
+  {
+    "id": "time001",
+    "german": "die Zeit",
+    "english": "time",
+    "emoji": "🕰️"
+  },
+  {
+    "id": "time002",
+    "german": "die Uhr",
+    "english": "clock",
+    "emoji": "⏰"
+  },
+  {
+    "id": "time003",
+    "german": "um ... Uhr",
+    "english": "at ... o'clock",
+    "emoji": "🕓"
+  },
+  {
+    "id": "time004",
+    "german": "die Stunde / die Stunden",
+    "english": "hour / hours",
+    "emoji": "⌛"
+  },
+  {
+    "id": "time005",
+    "german": "die Minute / die Minuten",
+    "english": "minute / minutes",
+    "emoji": "⏱️"
+  },
+  {
+    "id": "time006",
+    "german": "die Sekunde / die Sekunden",
+    "english": "second / seconds",
+    "emoji": "⏲️"
+  },
+  {
+    "id": "time007",
+    "german": "früh",
+    "english": "early",
+    "emoji": "🌅"
+  },
+  {
+    "id": "time008",
+    "german": "spät",
+    "english": "late",
+    "emoji": "🌃"
+  },
+  {
+    "id": "time009",
+    "german": "jetzt",
+    "english": "now",
+    "emoji": "🕐"
+  },
+  {
+    "id": "time010",
+    "german": "bald",
+    "english": "soon",
+    "emoji": "⏳"
+  },
+  {
+    "id": "time011",
+    "german": "später",
+    "english": "later",
+    "emoji": "🕔"
+  },
+  {
+    "id": "time012",
+    "german": "manchmal",
+    "english": "sometimes",
+    "emoji": "🔀"
+  },
+  {
+    "id": "time013",
+    "german": "oft",
+    "english": "often",
+    "emoji": "🔁"
+  },
+  {
+    "id": "time014",
+    "german": "immer",
+    "english": "always",
+    "emoji": "🔂"
+  },
+  {
+    "id": "time015",
+    "german": "selten",
+    "english": "rarely",
+    "emoji": "🐢"
+  },
+  {
+    "id": "time016",
+    "german": "nie",
+    "english": "never",
+    "emoji": "🚫"
+  },
+  {
+    "id": "time017",
+    "german": "noch",
+    "english": "still / yet",
+    "emoji": ""
+  },
+  {
+    "id": "time018",
+    "german": "schon",
+    "english": "already",
+    "emoji": ""
+  },
+  {
+    "id": "time019",
+    "german": "zuerst",
+    "english": "first / at first",
+    "emoji": "🥇"
+  },
+  {
+    "id": "time020",
+    "german": "dann",
+    "english": "then",
+    "emoji": "➡️"
+  },
+  {
+    "id": "time021",
+    "german": "endlich",
+    "english": "finally",
+    "emoji": "🏁"
+  },
+  {
+    "id": "time022",
+    "german": "der Tag / die Tage",
+    "english": "day / days",
+    "emoji": "📅"
+  },
+  {
+    "id": "time023",
+    "german": "heute",
+    "english": "today",
+    "emoji": "📆"
+  },
+  {
+    "id": "time024",
+    "german": "gestern",
+    "english": "yesterday",
+    "emoji": "🕰️"
+  },
+  {
+    "id": "time025",
+    "german": "morgen",
+    "english": "tomorrow",
+    "emoji": "🌄"
+  },
+  {
+    "id": "time026",
+    "german": "übermorgen",
+    "english": "day after tomorrow",
+    "emoji": "⏭️"
+  },
+  {
+    "id": "time027",
+    "german": "vorgestern",
+    "english": "day before yesterday",
+    "emoji": "⏮️"
+  },
+  {
+    "id": "time028",
+    "german": "Montag",
+    "english": "Monday",
+    "emoji": ""
+  },
+  {
+    "id": "time029",
+    "german": "Dienstag",
+    "english": "Tuesday",
+    "emoji": ""
+  },
+  {
+    "id": "time030",
+    "german": "Mittwoch",
+    "english": "Wednesday",
+    "emoji": ""
+  },
+  {
+    "id": "time031",
+    "german": "Donnerstag",
+    "english": "Thursday",
+    "emoji": ""
+  },
+  {
+    "id": "time032",
+    "german": "Freitag",
+    "english": "Friday",
+    "emoji": ""
+  },
+  {
+    "id": "time033",
+    "german": "Samstag",
+    "english": "Saturday",
+    "emoji": ""
+  },
+  {
+    "id": "time034",
+    "german": "Sonntag",
+    "english": "Sunday",
+    "emoji": ""
+  },
+  {
+    "id": "time035",
+    "german": "Januar",
+    "english": "January",
+    "emoji": "❄️"
+  },
+  {
+    "id": "time036",
+    "german": "Februar",
+    "english": "February",
+    "emoji": "❄️"
+  },
+  {
+    "id": "time037",
+    "german": "März",
+    "english": "March",
+    "emoji": "🌱"
+  },
+  {
+    "id": "time038",
+    "german": "April",
+    "english": "April",
+    "emoji": "🌧️"
+  },
+  {
+    "id": "time039",
+    "german": "Mai",
+    "english": "May",
+    "emoji": "🌼"
+  },
+  {
+    "id": "time040",
+    "german": "Juni",
+    "english": "June",
+    "emoji": "☀️"
+  },
+  {
+    "id": "time041",
+    "german": "Juli",
+    "english": "July",
+    "emoji": "☀️"
+  },
+  {
+    "id": "time042",
+    "german": "August",
+    "english": "August",
+    "emoji": "🌞"
+  },
+  {
+    "id": "time043",
+    "german": "September",
+    "english": "September",
+    "emoji": "🍂"
+  },
+  {
+    "id": "time044",
+    "german": "Oktober",
+    "english": "October",
+    "emoji": "🎃"
+  },
+  {
+    "id": "time045",
+    "german": "November",
+    "english": "November",
+    "emoji": "🌫️"
+  },
+  {
+    "id": "time046",
+    "german": "Dezember",
+    "english": "December",
+    "emoji": "🎄"
+  },
+  {
+    "id": "time047",
+    "german": "am Montag",
+    "english": "on Monday",
+    "emoji": "🗓️"
+  },
+  {
+    "id": "time048",
+    "german": "im Juni",
+    "english": "in June",
+    "emoji": "☀️"
+  },
+  {
+    "id": "time049",
+    "german": "jeden Tag",
+    "english": "every day",
+    "emoji": "📅"
+  },
+  {
+    "id": "time050",
+    "german": "jede Woche",
+    "english": "every week",
+    "emoji": "📆"
+  },
+  {
+    "id": "time051",
+    "german": "jedes Jahr",
+    "english": "every year",
+    "emoji": "📆"
+  },
+  {
+    "id": "time052",
+    "german": "einmal pro Woche",
+    "english": "once a week",
+    "emoji": "🔂"
+  },
+  {
+    "id": "time053",
+    "german": "zweimal am Tag",
+    "english": "twice a day",
+    "emoji": "🔁"
+  },
+  {
+    "id": "time054",
+    "german": "Wie spät ist es?",
+    "english": "What time is it?",
+    "emoji": "⏰"
+  },
+  {
+    "id": "time055",
+    "german": "Es ist zehn Uhr.",
+    "english": "It’s 10 o’clock.",
+    "emoji": "🕙"
+  }
+]

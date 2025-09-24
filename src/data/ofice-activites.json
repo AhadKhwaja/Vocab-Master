@@ -1,0 +1,133 @@
+[
+  {
+    "id": "work001",
+    "german": "arbeiten",
+    "english": "to work",
+    "emoji": "💼"
+  },
+  {
+    "id": "work002",
+    "german": "anfangen",
+    "english": "to start",
+    "emoji": "🟢"
+  },
+  {
+    "id": "work003",
+    "german": "beenden",
+    "english": "to finish",
+    "emoji": "🔴"
+  },
+  {
+    "id": "work004",
+    "german": "planen",
+    "english": "to plan",
+    "emoji": "📅"
+  },
+  {
+    "id": "work005",
+    "german": "vorbereiten",
+    "english": "to prepare",
+    "emoji": "🛠️"
+  },
+  {
+    "id": "work006",
+    "german": "teilnehmen",
+    "english": "to participate",
+    "emoji": "🧑‍🤝‍🧑"
+  },
+  {
+    "id": "work007",
+    "german": "schreiben",
+    "english": "to write",
+    "emoji": "✍️"
+  },
+  {
+    "id": "work008",
+    "german": "lesen",
+    "english": "to read",
+    "emoji": "📖"
+  },
+  {
+    "id": "work009",
+    "german": "schicken",
+    "english": "to send",
+    "emoji": "📧"
+  },
+  {
+    "id": "work010",
+    "german": "Computer",
+    "article": "der",
+    "english": "computer",
+    "emoji": "💻"
+  },
+  {
+    "id": "work011",
+    "german": "Tastatur",
+    "article": "die",
+    "english": "keyboard",
+    "emoji": "⌨️"
+  },
+  {
+    "id": "work012",
+    "german": "Maus",
+    "article": "die",
+    "english": "mouse",
+    "emoji": "🖱️"
+  },
+  {
+    "id": "work013",
+    "german": "Bildschirm",
+    "article": "der",
+    "english": "screen",
+    "emoji": "🖥️"
+  },
+  {
+    "id": "work014",
+    "german": "Drucker",
+    "article": "der",
+    "english": "printer",
+    "emoji": "🖨️"
+  },
+  {
+    "id": "work015",
+    "german": "Dokument",
+    "article": "das",
+    "english": "document",
+    "emoji": "📄"
+  },
+  {
+    "id": "work016",
+    "german": "E-Mail",
+    "article": "die",
+    "english": "email",
+    "emoji": "📧"
+  },
+  {
+    "id": "work017",
+    "german": "Ordner",
+    "article": "der",
+    "english": "folder",
+    "emoji": "📁"
+  },
+  {
+    "id": "work018",
+    "german": "Formular",
+    "article": "das",
+    "english": "form",
+    "emoji": "📝"
+  },
+  {
+    "id": "work019",
+    "german": "Besprechung",
+    "article": "die",
+    "english": "meeting",
+    "emoji": "📆"
+  },
+  {
+    "id": "work020",
+    "german": "Pause",
+    "article": "die",
+    "english": "break",
+    "emoji": "☕"
+  }
+]

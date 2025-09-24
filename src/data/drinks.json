@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sweets001",
+    "german": "Kuchen",
+    "article": "der",
+    "english": "cake",
+    "emoji": "🍰"
+  },
+  {
+    "id": "sweets002",
+    "german": "Torte",
+    "article": "die",
+    "english": "layered cake",
+    "emoji": "🎂"
+  },
+  {
+    "id": "sweets003",
+    "german": "Eis",
+    "article": "das",
+    "english": "ice cream",
+    "emoji": "🍨"
+  },
+  {
+    "id": "sweets004",
+    "german": "Schokolade",
+    "article": "die",
+    "english": "chocolate",
+    "emoji": "🍫"
+  },
+  {
+    "id": "sweets005",
+    "german": "Süßigkeit",
+    "article": "die",
+    "english": "sweet(s), candies",
+    "emoji": "🍬"
+  },
+  {
+    "id": "sweets006",
+    "german": "Chips",
+    "article": "die",
+    "english": "chips",
+    "emoji": "🍟"
+  },
+  {
+    "id": "sweets007",
+    "german": "Keks",
+    "article": "der",
+    "english": "cookie",
+    "emoji": "🍪"
+  }
+]

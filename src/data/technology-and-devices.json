@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tech001",
+    "german": "Computer",
+    "article": "der",
+    "english": "computer",
+    "emoji": "💻"
+  },
+  {
+    "id": "tech002",
+    "german": "Laptop",
+    "article": "der",
+    "english": "laptop",
+    "emoji": "💻"
+  },
+  {
+    "id": "tech003",
+    "german": "Tablet",
+    "article": "das",
+    "english": "tablet",
+    "emoji": "🖥️"
+  },
+  {
+    "id": "tech004",
+    "german": "Handy",
+    "article": "das",
+    "english": "mobile phone",
+    "emoji": "📱"
+  },
+  {
+    "id": "tech005",
+    "german": "Smartphone",
+    "article": "das",
+    "english": "smartphone",
+    "emoji": "📱"
+  },
+  {
+    "id": "tech006",
+    "german": "Fernseher",
+    "article": "der",
+    "english": "television",
+    "emoji": "📺"
+  },
+  {
+    "id": "tech007",
+    "german": "Kamera",
+    "article": "die",
+    "english": "camera",
+    "emoji": "📷"
+  },
+  {
+    "id": "tech008",
+    "german": "Ladegerät",
+    "article": "das",
+    "english": "charger",
+    "emoji": "🔌"
+  },
+  {
+    "id": "tech009",
+    "german": "Tastatur",
+    "article": "die",
+    "english": "keyboard",
+    "emoji": "⌨️"
+  },
+  {
+    "id": "tech010",
+    "german": "Maus",
+    "article": "die",
+    "english": "mouse",
+    "emoji": "🖱️"
+  },
+  {
+    "id": "tech011",
+    "german": "Bildschirm",
+    "article": "der",
+    "english": "screen",
+    "emoji": "🖥️"
+  },
+  {
+    "id": "tech012",
+    "german": "WLAN",
+    "article": "das",
+    "english": "Wi-Fi",
+    "emoji": "📶"
+  },
+  {
+    "id": "tech013",
+    "german": "Akku",
+    "article": "der",
+    "english": "battery",
+    "emoji": "🔋"
+  },
+  {
+    "id": "tech014",
+    "german": "App",
+    "article": "die",
+    "english": "app",
+    "emoji": "📲"
+  },
+  {
+    "id": "tech015",
+    "german": "Datei",
+    "article": "die",
+    "english": "file",
+    "emoji": "📁"
+  },
+  {
+    "id": "tech016",
+    "german": "Internet",
+    "article": "das",
+    "english": "internet",
+    "emoji": "🌐"
+  },
+  {
+    "id": "tech017",
+    "german": "Webseite",
+    "article": "die",
+    "english": "website",
+    "emoji": "🌍"
+  },
+  {
+    "id": "tech018",
+    "german": "Nachricht",
+    "article": "die",
+    "english": "message",
+    "emoji": "💬"
+  },
+   {
+    "id": "tech001",
+    "german": "anmachen",
+    "english": "to turn on",
+    "emoji": "🔛"
+  },
+  {
+    "id": "tech002",
+    "german": "ausmachen",
+    "english": "to turn off",
+    "emoji": "🔌"
+  },
+  {
+    "id": "tech003",
+    "german": "laden",
+    "english": "to charge",
+    "emoji": "🔋"
+  },
+  {
+    "id": "tech004",
+    "german": "speichern",
+    "english": "to save",
+    "emoji": "💾"
+  },
+  {
+    "id": "tech005",
+    "german": "löschen",
+    "english": "to delete",
+    "emoji": "❌"
+  },
+  {
+    "id": "tech006",
+    "german": "senden",
+    "english": "to send",
+    "emoji": "📤"
+  },
+  {
+    "id": "tech007",
+    "german": "empfangen",
+    "english": "to receive",
+    "emoji": "📥"
+  },
+  {
+    "id": "tech008",
+    "german": "herunterladen",
+    "english": "to download",
+    "emoji": "⬇️"
+  },
+  {
+    "id": "tech009",
+    "german": "hochladen",
+    "english": "to upload",
+    "emoji": "⬆️"
+  },
+  {
+    "id": "tech010",
+    "german": "benutzen",
+    "english": "to use",
+    "emoji": "🖱️"
+  },
+  {
+    "id": "tech011",
+    "german": "suchen",
+    "english": "to search",
+    "emoji": "🔍"
+  },
+  {
+    "id": "tech012",
+    "german": "klicken",
+    "english": "to click",
+    "emoji": "🖱️"
+  },
+  {
+    "id": "tech013",
+    "german": "teilen",
+    "english": "to share",
+    "emoji": "🔗"
+  },
+  {
+    "id": "tech014",
+    "german": "installieren",
+    "english": "to install",
+    "emoji": "⚙️"
+  }
+]

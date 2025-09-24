@@ -1,0 +1,142 @@
+[
+  {
+    "id": "kit001",
+    "german": "Teller",
+    "article": "der",
+    "english": "plate",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "kit002",
+    "german": "Glas",
+    "article": "das",
+    "english": "glass",
+    "emoji": "🥛"
+  },
+  {
+    "id": "kit003",
+    "german": "Tasse",
+    "article": "die",
+    "english": "cup",
+    "emoji": "☕"
+  },
+  {
+    "id": "kit004",
+    "german": "Besteck",
+    "article": "das",
+    "english": "cutlery",
+    "emoji": "🍴"
+  },
+  {
+    "id": "kit005",
+    "german": "Gabel",
+    "article": "die",
+    "english": "fork",
+    "emoji": "🍴"
+  },
+  {
+    "id": "kit006",
+    "german": "Messer",
+    "article": "das",
+    "english": "knife",
+    "emoji": "🔪"
+  },
+  {
+    "id": "kit007",
+    "german": "Löffel",
+    "article": "der",
+    "english": "spoon",
+    "emoji": "🥄"
+  },
+  {
+    "id": "kit008",
+    "german": "Serviette",
+    "article": "die",
+    "english": "napkin",
+    "emoji": "🧻"
+  },
+  {
+    "id": "kit009",
+    "german": "Pfanne",
+    "article": "die",
+    "english": "pan",
+    "emoji": "🍳"
+  },
+  {
+    "id": "kit010",
+    "german": "Topf",
+    "article": "der",
+    "english": "pot",
+    "emoji": "🥘"
+  },
+  {
+    "id": "kit011",
+    "german": "Herd",
+    "article": "der",
+    "english": "stove",
+    "emoji": "🔥"
+  },
+  {
+    "id": "kit012",
+    "german": "Kühlschrank",
+    "article": "der",
+    "english": "fridge",
+    "emoji": "🧊"
+  },
+  [
+    {
+      "id": "cook001",
+      "german": "kochen",
+      "english": "to cook",
+      "emoji": "🍳"
+    },
+    {
+      "id": "cook002",
+      "german": "backen",
+      "english": "to bake",
+      "emoji": "🎂"
+    },
+    {
+      "id": "cook003",
+      "german": "braten",
+      "english": "to fry",
+      "emoji": "🔥"
+    },
+    {
+      "id": "cook004",
+      "german": "schneiden",
+      "english": "to cut",
+      "emoji": "🔪"
+    },
+    {
+      "id": "cook005",
+      "german": "mischen",
+      "english": "to mix",
+      "emoji": "🥣"
+    },
+    {
+      "id": "cook006",
+      "german": "umrühren",
+      "english": "to stir",
+      "emoji": "🥄"
+    },
+    {
+      "id": "cook007",
+      "german": "schmecken",
+      "english": "to taste",
+      "emoji": "😋"
+    },
+    {
+      "id": "cook008",
+      "german": "probieren",
+      "english": "to try",
+      "emoji": "👅"
+    },
+    {
+      "id": "cook009",
+      "german": "servieren",
+      "english": "to serve",
+      "emoji": "🍽️"
+    }
+  ]
+]

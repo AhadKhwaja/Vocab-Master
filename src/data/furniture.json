@@ -1,0 +1,107 @@
+[
+  {
+    "id": "furn001",
+    "german": "Bett",
+    "article": "das",
+    "english": "bed",
+    "emoji": "🛏️"
+  },
+  {
+    "id": "furn002",
+    "german": "Tisch",
+    "article": "der",
+    "english": "table",
+    "emoji": "🪑"
+  },
+  {
+    "id": "furn003",
+    "german": "Stuhl",
+    "article": "der",
+    "english": "chair",
+    "emoji": "💺"
+  },
+  {
+    "id": "furn004",
+    "german": "Sofa",
+    "article": "das",
+    "english": "sofa",
+    "emoji": "🛋️"
+  },
+  {
+    "id": "furn005",
+    "german": "Schrank",
+    "article": "der",
+    "english": "closet",
+    "emoji": "🚪"
+  },
+  {
+    "id": "furn006",
+    "german": "Regal",
+    "article": "das",
+    "english": "shelf",
+    "emoji": "📚"
+  },
+  {
+    "id": "furn007",
+    "german": "Fernseher",
+    "article": "der",
+    "english": "TV",
+    "emoji": "📺"
+  },
+  {
+    "id": "furn008",
+    "german": "Lampe",
+    "article": "die",
+    "english": "lamp",
+    "emoji": "💡"
+  },
+  {
+    "id": "furn009",
+    "german": "Teppich",
+    "article": "der",
+    "english": "carpet",
+    "emoji": "🧼"
+  },
+  {
+    "id": "furn010",
+    "german": "Spiegel",
+    "article": "der",
+    "english": "mirror",
+    "emoji": "🪞"
+  },
+  {
+    "id": "furn011",
+    "german": "Kühlschrank",
+    "article": "der",
+    "english": "fridge",
+    "emoji": "🧊"
+  },
+  {
+    "id": "furn012",
+    "german": "Ofen",
+    "article": "der",
+    "english": "oven",
+    "emoji": "🔥"
+  },
+  {
+    "id": "furn013",
+    "german": "Mikrowelle",
+    "article": "die",
+    "english": "microwave",
+    "emoji": "🔁"
+  },
+  {
+    "id": "furn014",
+    "german": "Waschmaschine",
+    "article": "die",
+    "english": "washing machine",
+    "emoji": "🧺"
+  },
+  {
+    "id": "furn015",
+    "german": "Trockner",
+    "article": "der",
+    "english": "dryer",
+    "emoji": "💨"
+  }
+]

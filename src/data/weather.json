@@ -1,0 +1,134 @@
+[
+  {
+    "id": "weather001",
+    "german": "das Wetter",
+    "english": "weather",
+    "emoji": "🌦️"
+  },
+  {
+    "id": "weather002",
+    "german": "sonnig",
+    "english": "sunny",
+    "emoji": "☀️"
+  },
+  {
+    "id": "weather003",
+    "german": "warm",
+    "english": "warm",
+    "emoji": "🌤️"
+  },
+  {
+    "id": "weather004",
+    "german": "heiß",
+    "english": "hot",
+    "emoji": "🔥"
+  },
+  {
+    "id": "weather005",
+    "german": "kalt",
+    "english": "cold",
+    "emoji": "❄️"
+  },
+  {
+    "id": "weather006",
+    "german": "kühl",
+    "english": "cool",
+    "emoji": "🌬️"
+  },
+  {
+    "id": "weather007",
+    "german": "windig",
+    "english": "windy",
+    "emoji": "💨"
+  },
+  {
+    "id": "weather008",
+    "german": "bewölkt",
+    "english": "cloudy",
+    "emoji": "☁️"
+  },
+  {
+    "id": "weather009",
+    "german": "neblig",
+    "english": "foggy",
+    "emoji": "🌫️"
+  },
+  {
+    "id": "weather010",
+    "german": "regnerisch",
+    "english": "rainy",
+    "emoji": "🌧️"
+  },
+  {
+    "id": "weather011",
+    "german": "der Regen",
+    "english": "rain",
+    "emoji": "🌧️"
+  },
+  {
+    "id": "weather012",
+    "german": "der Schnee",
+    "english": "snow",
+    "emoji": "❄️"
+  },
+  {
+    "id": "weather013",
+    "german": "der Sturm",
+    "english": "storm",
+    "emoji": "🌪️"
+  },
+  {
+    "id": "weather014",
+    "german": "das Gewitter",
+    "english": "thunderstorm",
+    "emoji": "⛈️"
+  },
+  {
+    "id": "weather015",
+    "german": "der Wind",
+    "english": "wind",
+    "emoji": "💨"
+  },
+  {
+    "id": "weather016",
+    "german": "die Sonne",
+    "english": "sun",
+    "emoji": "☀️"
+  },
+  {
+    "id": "weather017",
+    "german": "der Himmel",
+    "english": "sky",
+    "emoji": "🌌"
+  },
+  {
+    "id": "weather018",
+    "german": "der Nebel",
+    "english": "fog",
+    "emoji": "🌫️"
+  },
+  {
+    "id": "season001",
+    "german": "der Frühling",
+    "english": "spring",
+    "emoji": "🌷"
+  },
+  {
+    "id": "season002",
+    "german": "der Sommer",
+    "english": "summer",
+    "emoji": "🌞"
+  },
+  {
+    "id": "season003",
+    "german": "der Herbst",
+    "english": "autumn",
+    "emoji": "🍁"
+  },
+  {
+    "id": "season004",
+    "german": "der Winter",
+    "english": "winter",
+    "emoji": "❄️"
+  }
+]

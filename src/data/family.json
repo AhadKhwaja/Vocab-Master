@@ -1,0 +1,233 @@
+[
+  {
+    "id": "fam001",
+    "german": "Familie",
+    "article": "die",
+    "english": "family",
+    "emoji": "👨‍👩‍👧‍👦"
+  },
+  {
+    "id": "fam002",
+    "german": "Eltern",
+    "article": "die",
+    "english": "parents",
+    "emoji": "👪"
+  },
+  {
+    "id": "fam003",
+    "german": "Vater",
+    "article": "der",
+    "english": "father",
+    "emoji": "👨"
+  },
+  {
+    "id": "fam004",
+    "german": "Mutter",
+    "article": "die",
+    "english": "mother",
+    "emoji": "👩"
+  },
+  {
+    "id": "fam005",
+    "german": "Geschwister",
+    "article": "die",
+    "english": "siblings",
+    "emoji": null
+  },
+  {
+    "id": "fam006",
+    "german": "Bruder",
+    "article": "der",
+    "english": "brother",
+    "emoji": "👦"
+  },
+  {
+    "id": "fam007",
+    "german": "Schwester",
+    "article": "die",
+    "english": "sister",
+    "emoji": "👧"
+  },
+  {
+    "id": "fam008",
+    "german": "Kinder",
+    "article": "die",
+    "english": "children",
+    "emoji": "🧒"
+  },
+  {
+    "id": "fam009",
+    "german": "Sohn",
+    "article": "der",
+    "english": "son",
+    "emoji": "👦"
+  },
+  {
+    "id": "fam010",
+    "german": "Tochter",
+    "article": "die",
+    "english": "daughter",
+    "emoji": "👧"
+  },
+  {
+    "id": "fam011",
+    "german": "Großeltern",
+    "article": "die",
+    "english": "grandparents",
+    "emoji": "👴👵"
+  },
+  {
+    "id": "fam012",
+    "german": "Großvater",
+    "article": "der",
+    "english": "grandfather",
+    "emoji": "👴"
+  },
+  {
+    "id": "fam013",
+    "german": "Großmutter",
+    "article": "die",
+    "english": "grandmother",
+    "emoji": "👵"
+  },
+  {
+    "id": "fam014",
+    "german": "Onkel",
+    "article": "der",
+    "english": "uncle",
+    "emoji": "🧔"
+  },
+  {
+    "id": "fam015",
+    "german": "Tante",
+    "article": "die",
+    "english": "aunt",
+    "emoji": "👩"
+  },
+  {
+    "id": "fam016",
+    "german": "Cousin",
+    "article": "der",
+    "english": "(male) cousin",
+    "emoji": "👦"
+  },
+  {
+    "id": "fam017",
+    "german": "Cousine",
+    "article": "die",
+    "english": "(female) cousin",
+    "emoji": "👧"
+  },
+  {
+    "id": "fam018",
+    "german": "Neffe",
+    "article": "der",
+    "english": "nephew",
+    "emoji": "👦"
+  },
+  {
+    "id": "fam019",
+    "german": "Nichte",
+    "article": "die",
+    "english": "niece",
+    "emoji": "👧"
+  },
+  {
+    "id": "fam020",
+    "german": "Kind",
+    "article": "das",
+    "english": "child",
+    "emoji": "👶"
+  },
+  {
+    "id": "fam021",
+    "german": "Baby",
+    "article": "das",
+    "english": "baby",
+    "emoji": "👶"
+  },
+  {
+    "id": "fam022",
+    "german": "Ehemann",
+    "article": "der",
+    "english": "husband",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": "fam023",
+    "german": "Ehefrau",
+    "article": "die",
+    "english": "wife",
+    "emoji": "👩‍💼"
+  },
+  {
+    "id": "fam024",
+    "german": "Freund",
+    "article": "der",
+    "english": "boyfriend / male friend / friends",
+    "emoji": "👨‍❤️‍👨"
+  },
+  {
+    "id": "fam025",
+    "german": "Freundin",
+    "article": "die",
+    "english": "girlfriend / female friend / friends",
+    "emoji": "👩‍❤️‍👩"
+  },
+  {
+    "id": "fam026",
+    "german": "Nachbar",
+    "article": "der",
+    "english": "neighbor (m)",
+    "emoji": "👨‍🦱"
+  },
+  {
+    "id": "fam027",
+    "german": "Nachbarin",
+    "article": "die",
+    "english": "neighbor (f)",
+    "emoji": "👩‍🦱"
+  },
+  {
+    "id": "fam028",
+    "german": "Mitbewohner",
+    "article": "der",
+    "english": "roommate (m)",
+    "emoji": "👨‍👦"
+  },
+  {
+    "id": "fam029",
+    "german": "Mitbewohnerin",
+    "article": "die",
+    "english": "roommate (f)",
+    "emoji": "👩‍👧"
+  },
+  {
+    "id": "fam030",
+    "german": "Chef",
+    "article": "der",
+    "english": "boss (m)",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": "fam031",
+    "german": "Chefin",
+    "article": "die",
+    "english": "boss (f)",
+    "emoji": "👩‍💼"
+  },
+  {
+    "id": "fam032",
+    "german": "Kollege",
+    "article": "der",
+    "english": "colleague (m)",
+    "emoji": "👨‍💻"
+  },
+  {
+    "id": "fam033",
+    "german": "Kollegin",
+    "article": "die",
+    "english": "colleague (f)",
+    "emoji": "👩‍💻"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "emo001",
+    "german": "glücklich",
+    "english": "happy",
+    "emoji": "😊"
+  },
+  {
+    "id": "emo002",
+    "german": "traurig",
+    "english": "sad",
+    "emoji": "😢"
+  },
+  {
+    "id": "emo003",
+    "german": "zufrieden",
+    "english": "content",
+    "emoji": null
+  },
+  {
+    "id": "emo004",
+    "german": "wütend",
+    "english": "angry",
+    "emoji": "😠"
+  },
+  {
+    "id": "emo005",
+    "german": "sauer",
+    "english": "annoyed / mad",
+    "emoji": "😠"
+  },
+  {
+    "id": "emo006",
+    "german": "nervös",
+    "english": "nervous",
+    "emoji": "😬"
+  },
+  {
+    "id": "emo007",
+    "german": "gestresst",
+    "english": "stressed",
+    "emoji": "😩"
+  },
+  {
+    "id": "emo008",
+    "german": "müde",
+    "english": "tired",
+    "emoji": "😴"
+  },
+  {
+    "id": "emo009",
+    "german": "krank",
+    "english": "sick",
+    "emoji": "🤒"
+  },
+  {
+    "id": "emo010",
+    "german": "gesund",
+    "english": "healthy",
+    "emoji": "💪"
+  },
+  {
+    "id": "emo011",
+    "german": "verliebt",
+    "english": "in love",
+    "emoji": "❤️"
+  },
+  {
+    "id": "emo012",
+    "german": "einsam",
+    "english": "lonely",
+    "emoji": "🧍"
+  },
+  {
+    "id": "emo013",
+    "german": "enttäuscht",
+    "english": "disappointed",
+    "emoji": "😞"
+  },
+  {
+    "id": "emo014",
+    "german": "überrascht",
+    "english": "surprised",
+    "emoji": "😲"
+  },
+  {
+    "id": "emo015",
+    "german": "stolz",
+    "english": "proud",
+    "emoji": "😌"
+  },
+  {
+    "id": "emo016",
+    "german": "ängstlich",
+    "english": "anxious",
+    "emoji": "😨"
+  },
+  {
+    "id": "emo017",
+    "german": "ruhig",
+    "english": "calm",
+    "emoji": "😌"
+  },
+  {
+    "id": "emo018",
+    "german": "begeistert",
+    "english": "excited",
+    "emoji": "🤩"
+  },
+  {
+    "id": "emo019",
+    "german": "interessiert",
+    "english": "interested",
+    "emoji": "🤓"
+  },
+  {
+    "id": "emo020",
+    "german": "gelangweilt",
+    "english": "bored",
+    "emoji": "😐"
+  },
+  {
+    "id": "emo021",
+    "german": "motiviert",
+    "english": "motivated",
+    "emoji": "💡"
+  },
+  {
+    "id": "emo022",
+    "german": "verletzt",
+    "english": "hurt",
+    "emoji": "🤕"
+  },
+  {
+    "id": "emo023",
+    "german": "dankbar",
+    "english": "grateful",
+    "emoji": "🙏"
+  },
+  {
+    "id": "emo024",
+    "german": "schuldig",
+    "english": "guilty",
+    "emoji": "⚖️"
+  },
+  {
+    "id": "emo025",
+    "german": "neidisch",
+    "english": "jealous",
+    "emoji": "😒"
+  }
+]

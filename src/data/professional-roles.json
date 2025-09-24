@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prof001",
+    "german": "der Arzt / die Ärztin",
+    "english": "doctor",
+    "emoji": "🩺"
+  },
+  {
+    "id": "prof002",
+    "german": "der Lehrer / die Lehrerin",
+    "english": "teacher",
+    "emoji": "👨‍🏫"
+  },
+  {
+    "id": "prof003",
+    "german": "der Ingenieur / die Ingenieurin",
+    "english": "engineer",
+    "emoji": "🛠️"
+  },
+  {
+    "id": "prof004",
+    "german": "der Verkäufer / die Verkäuferin",
+    "english": "salesperson",
+    "emoji": "🛍️"
+  },
+  {
+    "id": "prof005",
+    "german": "der Fahrer / die Fahrerin",
+    "english": "driver",
+    "emoji": "🚚"
+  },
+  {
+    "id": "prof006",
+    "german": "der Koch / die Köchin",
+    "english": "cook",
+    "emoji": "👨‍🍳"
+  },
+  {
+    "id": "prof007",
+    "german": "der Mechaniker",
+    "english": "mechanic",
+    "emoji": "🔧"
+  },
+  {
+    "id": "prof008",
+    "german": "der Bauarbeiter",
+    "english": "construction worker",
+    "emoji": "🚧"
+  },
+  {
+    "id": "prof009",
+    "german": "der Polizist",
+    "english": "police officer",
+    "emoji": "👮"
+  },
+  {
+    "id": "prof010",
+    "german": "der Krankenpfleger / die Krankenschwester",
+    "english": "nurse",
+    "emoji": "🏥"
+  },
+  {
+    "id": "prof011",
+    "german": "der Kellner / die Kellnerin",
+    "english": "waiter / waitress",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "prof012",
+    "german": "der Programmierer / die Programmiererin",
+    "english": "programmer",
+    "emoji": "💻"
+  },
+  {
+    "id": "prof013",
+    "german": "der Künstler / die Künstlerin",
+    "english": "artist",
+    "emoji": "🎨"
+  },
+  {
+    "id": "prof014",
+    "german": "der Musiker / die Musikerin",
+    "english": "musician",
+    "emoji": "🎵"
+  },
+  {
+    "id": "prof015",
+    "german": "der Schauspieler / die Schauspielerin",
+    "english": "actor / actress",
+    "emoji": "🎬"
+  }
+]

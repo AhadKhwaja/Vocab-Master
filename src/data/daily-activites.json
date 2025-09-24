@@ -1,0 +1,114 @@
+[
+  {
+    "id": "shop001",
+    "german": "einkaufen",
+    "english": "to shop",
+    "emoji": "🛍️"
+  },
+  {
+    "id": "shop002",
+    "german": "Supermarkt",
+    "article": "der",
+    "english": "supermarket",
+    "emoji": "🛒"
+  },
+  {
+    "id": "shop003",
+    "german": "Markt",
+    "article": "der",
+    "english": "market",
+    "emoji": "🥬"
+  },
+  {
+    "id": "shop004",
+    "german": "Geschäft",
+    "article": "das",
+    "english": "store",
+    "emoji": "🏪"
+  },
+  {
+    "id": "shop005",
+    "german": "Bäckerei",
+    "article": "die",
+    "english": "bakery",
+    "emoji": "🥖"
+  },
+  {
+    "id": "shop006",
+    "german": "Metzgerei",
+    "article": "die",
+    "english": "butcher",
+    "emoji": "🥩"
+  },
+  {
+    "id": "shop007",
+    "german": "Restaurant",
+    "article": "das",
+    "english": "restaurant",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "shop008",
+    "german": "Café",
+    "article": "das",
+    "english": "café",
+    "emoji": "☕"
+  },
+  {
+    "id": "shop009",
+    "german": "Speisekarte",
+    "article": "die",
+    "english": "menu",
+    "emoji": "📜"
+  },
+  {
+    "id": "shop010",
+    "german": "Rechnung",
+    "article": "die",
+    "english": "bill",
+    "emoji": "💵"
+  },
+  {
+    "id": "shop011",
+    "german": "Trinkgeld",
+    "article": "das",
+    "english": "tip",
+    "emoji": "💶"
+  },
+  {
+    "id": "shop012",
+    "german": "Ich hätte gern...",
+    "english": "I’d like...",
+    "emoji": "🙋‍♂️"
+  },
+  {
+    "id": "shop013",
+    "german": "Was kostet das?",
+    "english": "How much does it cost?",
+    "emoji": "💰"
+  },
+  {
+    "id": "shop014",
+    "german": "Das ist zu teuer!",
+    "english": "That’s too expensive!",
+    "emoji": "😱"
+  },
+  {
+    "id": "shop015",
+    "german": "Ich bin satt.",
+    "english": "I’m full.",
+    "emoji": "🤰"
+  },
+  {
+    "id": "shop016",
+    "german": "Es schmeckt gut.",
+    "english": "It tastes good.",
+    "emoji": "😋"
+  },
+  {
+    "id": "shop017",
+    "german": "Zahlen bitte!",
+    "english": "The bill, please!",
+    "emoji": "💳"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "doc001",
+    "german": "Arzt",
+    "article": "der",
+    "english": "doctor (m)",
+    "emoji": "👨‍⚕️"
+  },
+  {
+    "id": "doc002",
+    "german": "Ärztin",
+    "article": "die",
+    "english": "doctor (f)",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "id": "doc003",
+    "german": "Zahnarzt",
+    "article": "der",
+    "english": "dentist (m)",
+    "emoji": "🦷"
+  },
+  {
+    "id": "doc004",
+    "german": "Krankenhaus",
+    "article": "das",
+    "english": "hospital",
+    "emoji": "🏥"
+  },
+  {
+    "id": "doc005",
+    "german": "Klinik",
+    "article": "die",
+    "english": "clinic",
+    "emoji": "🏨"
+  },
+  {
+    "id": "doc006",
+    "german": "Apotheke",
+    "article": "die",
+    "english": "pharmacy",
+    "emoji": "💊"
+  },
+  {
+    "id": "doc007",
+    "german": "Rezept",
+    "article": "das",
+    "english": "prescription",
+    "emoji": "📄"
+  },
+  {
+    "id": "doc008",
+    "german": "Medikament",
+    "article": "das",
+    "english": "medicine",
+    "emoji": "💊"
+  },
+  {
+    "id": "doc009",
+    "german": "Tablette",
+    "article": "die",
+    "english": "tablet",
+    "emoji": "💊"
+  },
+  {
+    "id": "doc010",
+    "german": "Sirup",
+    "article": "der",
+    "english": "syrup",
+    "emoji": "🥄"
+  },
+  {
+    "id": "doc011",
+    "german": "Salbe",
+    "article": "die",
+    "english": "ointment",
+    "emoji": "🧴"
+  },
+  {
+    "id": "doc012",
+    "german": "Spritze",
+    "article": "die",
+    "english": "injection",
+    "emoji": "💉"
+  },
+  {
+    "id": "doc013",
+    "german": "Krankenkasse",
+    "article": "die",
+    "english": "health insurance",
+    "emoji": "🩺"
+  },
+  {
+    "id": "doc014",
+    "german": "Termin",
+    "article": "der",
+    "english": "appointment",
+    "emoji": "📅"
+  },
+  {
+    "id": "doc015",
+    "german": "Untersuchung",
+    "article": "die",
+    "english": "examination",
+    "emoji": "📝"
+  },
+  {
+    "id": "doc016",
+    "german": "Behandlung",
+    "article": "die",
+    "english": "treatment",
+    "emoji": "🛏️"
+  },
+  {
+    "id": "health001",
+    "german": "Haben Sie Allergien?",
+    "english": "Do you have allergies?",
+    "emoji": "🤧"
+  },
+  {
+    "id": "health002",
+    "german": "Ich bin allergisch gegen ...",
+    "english": "I’m allergic to ...",
+    "emoji": "🌾"
+  },
+  {
+    "id": "health003",
+    "german": "Ich brauche ein Rezept.",
+    "english": "I need a prescription.",
+    "emoji": "📄"
+  },
+  {
+    "id": "health004",
+    "german": "Ich fühle mich nicht gut.",
+    "english": "I don’t feel well.",
+    "emoji": "🤒"
+  },
+  {
+    "id": "health005",
+    "german": "Ich habe Schmerzen hier.",
+    "english": "It hurts here.",
+    "emoji": "👉"
+  },
+  {
+    "id": "health006",
+    "german": "Seit wann haben Sie das?",
+    "english": "Since when do you have it?",
+    "emoji": "⏳"
+  },
+  {
+    "id": "health007",
+    "german": "Nehmen Sie Medikamente?",
+    "english": "Do you take any medication?",
+    "emoji": "💊"
+  }
+]

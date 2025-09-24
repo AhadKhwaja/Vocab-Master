@@ -1,0 +1,98 @@
+[
+  {
+    "id": "emg001",
+    "german": "Notfall",
+    "article": "der",
+    "english": "emergency",
+    "emoji": "🚨"
+  },
+  {
+    "id": "emg002",
+    "german": "Unfall",
+    "article": "der",
+    "english": "accident",
+    "emoji": "🚑"
+  },
+  {
+    "id": "emg003",
+    "german": "Schmerz",
+    "article": "der",
+    "english": "pain",
+    "emoji": "😖"
+  },
+  {
+    "id": "emg004",
+    "german": "Blut",
+    "article": "das",
+    "english": "blood",
+    "emoji": "🩸"
+  },
+  {
+    "id": "emg005",
+    "german": "Wunde",
+    "article": "die",
+    "english": "wound",
+    "emoji": "🩹"
+  },
+  {
+    "id": "emg006",
+    "german": "Verletzung",
+    "article": "die",
+    "english": "injury",
+    "emoji": "🤕"
+  },
+  {
+    "id": "emg007",
+    "german": "gebrochen",
+    "english": "broken",
+    "emoji": "🦴"
+  },
+  {
+    "id": "emg008",
+    "german": "verstaucht",
+    "english": "sprained",
+    "emoji": "🤕"
+  },
+  {
+    "id": "emg009",
+    "german": "verbrannt",
+    "english": "burned",
+    "emoji": "🔥"
+  },
+  {
+    "id": "emg010",
+    "german": "Ich brauche Hilfe!",
+    "english": "I need help!",
+    "emoji": "🆘"
+  },
+  {
+    "id": "emg011",
+    "german": "Rufen Sie einen Arzt!",
+    "english": "Call a doctor!",
+    "emoji": "🏥"
+  },
+  {
+    "id": "emg012",
+    "german": "Rufen Sie die Polizei!",
+    "english": "Call the police!",
+    "emoji": "🚔"
+  },
+  {
+    "id": "emg013",
+    "german": "Rufen Sie einen Krankenwagen!",
+    "english": "Call an ambulance!",
+    "emoji": "🚑"
+  },
+  {
+    "id": "emg014",
+    "german": "Ich habe mich verletzt.",
+    "english": "I injured myself.",
+    "emoji": "🤕"
+  },
+  {
+    "id": "emg015",
+    "german": "Wo ist die nächste Apotheke?",
+    "english": "Where is the nearest pharmacy?",
+    "emoji": "💊"
+  }
+]

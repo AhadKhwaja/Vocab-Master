@@ -1,0 +1,100 @@
+[
+  {
+    "id": "home001",
+    "german": "Haus",
+    "article": "das",
+    "english": "house",
+    "emoji": "🏠"
+  },
+  {
+    "id": "home002",
+    "german": "Wohnung",
+    "article": "die",
+    "english": "apartment",
+    "emoji": "🏢"
+  },
+  {
+    "id": "home003",
+    "german": "Zimmer",
+    "article": "das",
+    "english": "room",
+    "emoji": "🚪"
+  },
+  {
+    "id": "home004",
+    "german": "Wohnzimmer",
+    "article": "das",
+    "english": "living room",
+    "emoji": "🛋️"
+  },
+  {
+    "id": "home005",
+    "german": "Schlafzimmer",
+    "article": "das",
+    "english": "bedroom",
+    "emoji": "🛏️"
+  },
+  {
+    "id": "home006",
+    "german": "Küche",
+    "article": "die",
+    "english": "kitchen",
+    "emoji": "🍳"
+  },
+  {
+    "id": "home007",
+    "german": "Badezimmer",
+    "article": "das",
+    "english": "bathroom",
+    "emoji": "🚿"
+  },
+  {
+    "id": "home008",
+    "german": "Toilette",
+    "article": "die",
+    "english": "toilet",
+    "emoji": "🚽"
+  },
+  {
+    "id": "home009",
+    "german": "Balkon",
+    "article": "der",
+    "english": "balcony",
+    "emoji": "🌇"
+  },
+  {
+    "id": "home010",
+    "german": "Garten",
+    "article": "der",
+    "english": "garden",
+    "emoji": "🌳"
+  },
+  {
+    "id": "home011",
+    "german": "Flur",
+    "article": "der",
+    "english": "hallway",
+    "emoji": "🚪"
+  },
+  {
+    "id": "home012",
+    "german": "Keller",
+    "article": "der",
+    "english": "basement",
+    "emoji": "🧱"
+  },
+  {
+    "id": "home013",
+    "german": "Treppe",
+    "article": "die",
+    "english": "stairs",
+    "emoji": "🪜"
+  },
+  {
+    "id": "home014",
+    "german": "Aufzug / Fahrstuhl",
+    "article": "der",
+    "english": "elevator",
+    "emoji": "🛗"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trans001",
+    "german": "das Auto / die Autos",
+    "english": "car / cars",
+    "emoji": "🚗"
+  },
+  {
+    "id": "trans002",
+    "german": "der Bus / die Busse",
+    "english": "bus / buses",
+    "emoji": "🚌"
+  },
+  {
+    "id": "trans003",
+    "german": "der Zug / die Züge",
+    "english": "train / trains",
+    "emoji": "🚆"
+  },
+  {
+    "id": "trans004",
+    "german": "die Straßenbahn / die Straßenbahnen",
+    "english": "tram / trams",
+    "emoji": "🚋"
+  },
+  {
+    "id": "trans005",
+    "german": "die U-Bahn / die U-Bahnen",
+    "english": "subway / subways",
+    "emoji": "🚇"
+  },
+  {
+    "id": "trans006",
+    "german": "das Fahrrad / die Fahrräder",
+    "english": "bicycle / bicycles",
+    "emoji": "🚲"
+  },
+  {
+    "id": "trans007",
+    "german": "das Motorrad / die Motorräder",
+    "english": "motorcycle / motorcycles",
+    "emoji": "🏍️"
+  },
+  {
+    "id": "trans008",
+    "german": "das Flugzeug / die Flugzeuge",
+    "english": "airplane / airplanes",
+    "emoji": "✈️"
+  },
+  {
+    "id": "trans009",
+    "german": "das Schiff / die Schiffe",
+    "english": "ship / ships",
+    "emoji": "🚢"
+  },
+  {
+    "id": "trans010",
+    "german": "das Taxi / die Taxis",
+    "english": "taxi / taxis",
+    "emoji": "🚖"
+  },
+  {
+    "id": "trans011",
+    "german": "der LKW / die LKWs",
+    "english": "truck / trucks",
+    "emoji": "🚛"
+  },
+  {
+    "id": "trans012",
+    "german": "zu Fuß",
+    "english": "on foot",
+    "emoji": "🚶"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "uni001",
+    "german": "Universität",
+    "article": "die",
+    "english": "university",
+    "emoji": "🎓"
+  },
+  {
+    "id": "uni002",
+    "german": "Student",
+    "article": "der",
+    "english": "student (m, uni)",
+    "emoji": "👨‍🎓"
+  },
+  {
+    "id": "uni003",
+    "german": "Studentin",
+    "article": "die",
+    "english": "student (f, uni)",
+    "emoji": "👩‍🎓"
+  },
+  {
+    "id": "uni004",
+    "german": "Studium",
+    "article": "das",
+    "english": "studies",
+    "emoji": "📘"
+  },
+  {
+    "id": "uni005",
+    "german": "Fachgebiet",
+    "article": "das",
+    "english": "field of study",
+    "emoji": "🧪"
+  },
+  {
+    "id": "uni006",
+    "german": "Praktikum",
+    "article": "das",
+    "english": "internship",
+    "emoji": "👷"
+  },
+  {
+    "id": "uni007",
+    "german": "Abschlusszeugnis",
+    "article": "das",
+    "english": "degree certificate",
+    "emoji": "🎓"
+  },
+  {
+    "id": "uni008",
+    "german": "Ausbildung",
+    "article": "die",
+    "english": "vocational training",
+    "emoji": "🛠️"
+  },
+  {
+    "id": "uni009",
+    "german": "Bewerbung",
+    "article": "die",
+    "english": "application",
+    "emoji": "📄"
+  },
+  {
+    "id": "uni010",
+    "german": "Lebenslauf",
+    "article": "der",
+    "english": "CV / résumé",
+    "emoji": "📃"
+  },
+  {
+    "id": "uni011",
+    "german": "Vorstellungsgespräch",
+    "article": "das",
+    "english": "job interview",
+    "emoji": "🗣️"
+  },
+  {
+    "id": "uni012",
+    "german": "Karriere",
+    "article": "die",
+    "english": "career",
+    "emoji": "🚀"
+  },
+  {
+    "id": "uni013",
+    "german": "Gehalt",
+    "article": "das",
+    "english": "salary",
+    "emoji": "💶"
+  },
+  {
+    "id": "uni014",
+    "german": "Erfahrung",
+    "article": "die",
+    "english": "experience",
+    "emoji": "📊"
+  },
+  {
+    "id": "uni015",
+    "german": "Fähigkeit",
+    "article": "die",
+    "english": "skill",
+    "emoji": "🧠"
+  },
+  {
+    "id": "uni016",
+    "german": "Kenntnis",
+    "article": "die",
+    "english": "knowledge",
+    "emoji": "📘"
+  },
+  {
+    "id": "uni017",
+    "german": "Zukunft",
+    "article": "die",
+    "english": "future",
+    "emoji": "🔮"
+  }
+]

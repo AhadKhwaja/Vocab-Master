@@ -1,0 +1,149 @@
+[
+  {
+    "id": "body001",
+    "german": "Körper",
+    "article": "der",
+    "english": "body",
+    "emoji": "🧍"
+  },
+  {
+    "id": "body002",
+    "german": "Kopf",
+    "article": "der",
+    "english": "head",
+    "emoji": "🧠"
+  },
+  {
+    "id": "body003",
+    "german": "Gesicht",
+    "article": "das",
+    "english": "face",
+    "emoji": "🙂"
+  },
+  {
+    "id": "body004",
+    "german": "Stirn",
+    "article": "die",
+    "english": "forehead",
+    "emoji": "🤕"
+  },
+  {
+    "id": "body005",
+    "german": "Auge",
+    "article": "das",
+    "english": "eye",
+    "emoji": "👁️"
+  },
+  {
+    "id": "body006",
+    "german": "Ohr",
+    "article": "das",
+    "english": "ear",
+    "emoji": "👂"
+  },
+  {
+    "id": "body007",
+    "german": "Nase",
+    "article": "die",
+    "english": "nose",
+    "emoji": "👃"
+  },
+  {
+    "id": "body008",
+    "german": "Mund",
+    "article": "der",
+    "english": "mouth",
+    "emoji": "👄"
+  },
+  {
+    "id": "body009",
+    "german": "Zahn",
+    "article": "der",
+    "english": "tooth",
+    "emoji": "🦷"
+  },
+  {
+    "id": "body010",
+    "german": "Hals",
+    "article": "der",
+    "english": "throat / neck",
+    "emoji": "🦴"
+  },
+  {
+    "id": "body011",
+    "german": "Schulter",
+    "article": "die",
+    "english": "shoulder",
+    "emoji": "🦾"
+  },
+  {
+    "id": "body012",
+    "german": "Arm",
+    "article": "der",
+    "english": "arm",
+    "emoji": "💪"
+  },
+  {
+    "id": "body013",
+    "german": "Hand",
+    "article": "die",
+    "english": "hand",
+    "emoji": "✋"
+  },
+  {
+    "id": "body014",
+    "german": "Finger",
+    "article": "der",
+    "english": "finger",
+    "emoji": "👉"
+  },
+  {
+    "id": "body015",
+    "german": "Bein",
+    "article": "das",
+    "english": "leg",
+    "emoji": "🦵"
+  },
+  {
+    "id": "body016",
+    "german": "Knie",
+    "article": "das",
+    "english": "knee",
+    "emoji": "🦿"
+  },
+  {
+    "id": "body017",
+    "german": "Fuß",
+    "article": "der",
+    "english": "foot",
+    "emoji": "🦶"
+  },
+  {
+    "id": "body018",
+    "german": "Rücken",
+    "article": "der",
+    "english": "back",
+    "emoji": null
+  },
+  {
+    "id": "body019",
+    "german": "Herz",
+    "article": "das",
+    "english": "heart",
+    "emoji": "❤️"
+  },
+  {
+    "id": "body020",
+    "german": "Magen",
+    "article": "der",
+    "english": "stomach",
+    "emoji": "🤢"
+  },
+  {
+    "id": "body021",
+    "german": "Haut",
+    "article": "die",
+    "english": "skin",
+    "emoji": "🧖"
+  }
+]

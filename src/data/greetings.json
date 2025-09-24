@@ -1,0 +1,308 @@
+[
+  {
+    "id": "gre001",
+    "german": "Hallo",
+    "english": "Hello",
+    "emoji": "👋"
+  },
+  {
+    "id": "gre002",
+    "german": "Guten Morgen",
+    "english": "Good morning",
+    "emoji": "🌅"
+  },
+  {
+    "id": "gre003",
+    "german": "Guten Tag",
+    "english": "Good day / Hello",
+    "emoji": "☀️"
+  },
+  {
+    "id": "gre004",
+    "german": "Guten Abend",
+    "english": "Good evening",
+    "emoji": "🌇"
+  },
+  {
+    "id": "gre005",
+    "german": "Gute Nacht",
+    "english": "Good night",
+    "emoji": "🌙"
+  },
+  {
+    "id": "gre006",
+    "german": "Tschüss",
+    "english": "Bye",
+    "emoji": "👋"
+  },
+  {
+    "id": "gre007",
+    "german": "Auf Wiedersehen",
+    "english": "Goodbye (formal)",
+    "emoji": "👋"
+  },
+  {
+    "id": "gre008",
+    "german": "Bis bald",
+    "english": "See you soon",
+    "emoji": "👋"
+  },
+  {
+    "id": "gre009",
+    "german": "Bis später",
+    "english": "See you later",
+    "emoji": "👋"
+  },
+  {
+    "id": "gre010",
+    "german": "Schönes Wochenende",
+    "english": "Have a nice weekend",
+    "emoji": "🎉"
+  },
+  {
+    "id": "gre011",
+    "german": "Willkommen",
+    "english": "Welcome",
+    "emoji": "🙌"
+  },
+  {
+    "id": "gre012",
+    "german": "Bitte",
+    "english": "Please",
+    "emoji": "🙏"
+  },
+  {
+    "id": "gre013",
+    "german": "Danke",
+    "english": "Thanks",
+    "emoji": "🙏"
+  },
+  {
+    "id": "gre014",
+    "german": "Vielen Dank",
+    "english": "Thank you very much",
+    "emoji": "🙏"
+  },
+  {
+    "id": "gre015",
+    "german": "Gern geschehen",
+    "english": "You're welcome",
+    "emoji": "😊"
+  },
+  {
+    "id": "gre016",
+    "german": "Entschuldigung",
+    "english": "Excuse me / Sorry",
+    "emoji": "😅"
+  },
+  {
+    "id": "gre017",
+    "german": "Es tut mir leid",
+    "english": "I am sorry",
+    "emoji": "😔"
+  },
+  {
+    "id": "gre018",
+    "german": "Kein Problem",
+    "english": "No problem",
+    "emoji": "👍"
+  },
+  {
+    "id": "gre019",
+    "german": "Wie geht’s?",
+    "english": "How are you?",
+    "emoji": "🤔"
+  },
+  {
+    "id": "gre020",
+    "german": "Wie geht es Ihnen?",
+    "english": "How are you? (formal)",
+    "emoji": "🤝"
+  },
+  {
+    "id": "gre021",
+    "german": "Gut, danke",
+    "english": "Good, thanks",
+    "emoji": "🙂"
+  },
+  {
+    "id": "gre022",
+    "german": "Und dir?",
+    "english": "And you? (informal)",
+    "emoji": "🤗"
+  },
+  {
+    "id": "gre023",
+    "german": "Nicht schlecht",
+    "english": "Not bad",
+    "emoji": "😌"
+  },
+  {
+    "id": "gre024",
+    "german": "Es geht",
+    "english": "It's okay / So-so",
+    "emoji": "🤷"
+  },
+  {
+    "id": "gre025",
+    "german": "Wer?",
+    "english": "Who?",
+    "emoji": "👤"
+  },
+  {
+    "id": "gre026",
+    "german": "Was?",
+    "english": "What?",
+    "emoji": "❓"
+  },
+  {
+    "id": "gre027",
+    "german": "Wo?",
+    "english": "Where?",
+    "emoji": "📍"
+  },
+  {
+    "id": "gre028",
+    "german": "Wohin?",
+    "english": "To where?",
+    "emoji": "🧭"
+  },
+  {
+    "id": "gre029",
+    "german": "Wann?",
+    "english": "When?",
+    "emoji": "🕒"
+  },
+  {
+    "id": "gre030",
+    "german": "Warum?",
+    "english": "Why?",
+    "emoji": "🤔"
+  },
+  {
+    "id": "gre031",
+    "german": "Wie?",
+    "english": "How?",
+    "emoji": "🧐"
+  },
+  {
+    "id": "gre032",
+    "german": "Wie viel?",
+    "english": "How much?",
+    "emoji": "💰"
+  },
+  {
+    "id": "gre033",
+    "german": "Wie lange?",
+    "english": "How long?",
+    "emoji": "⏳"
+  },
+  {
+    "id": "gre034",
+    "german": "Was bedeutet das?",
+    "english": "What does that mean?",
+    "emoji": "📘"
+  },
+  {
+    "id": "gre035",
+    "german": "Können Sie das wiederholen?",
+    "english": "Can you repeat that?",
+    "emoji": "🔁"
+  },
+  {
+    "id": "gre036",
+    "german": "heißen",
+    "english": "My name is ...",
+    "emoji": "👤"
+  },
+  {
+    "id": "gre037",
+    "german": "bin",
+    "english": "I am ...",
+    "emoji": "🙋"
+  },
+  {
+    "id": "gre038",
+    "german": "komme",
+    "english": "I come from ...",
+    "emoji": "🌍"
+  },
+  {
+    "id": "gre039",
+    "german": "wohne",
+    "english": "I live in ...",
+    "emoji": "🏠"
+  },
+  {
+    "id": "gre040",
+    "german": "spreche",
+    "english": "I speak a little German",
+    "emoji": "🗣️"
+  },
+  {
+    "id": "gre041",
+    "german": "verstehe nicht",
+    "english": "I don’t understand",
+    "emoji": "❌👂"
+  },
+  {
+    "id": "gre042",
+    "german": "weiß nicht",
+    "english": "I don’t know",
+    "emoji": "🤷"
+  },
+  {
+    "id": "gre043",
+    "german": "habe eine Frage",
+    "english": "I have a question",
+    "emoji": "✋"
+  },
+  {
+    "id": "gre044",
+    "german": "Können Sie langsamer sprechen?",
+    "english": "Can you speak more slowly?",
+    "emoji": "🐢🗣️"
+  },
+  {
+    "id": "gre045",
+    "german": "Was ist das?",
+    "english": "What is that?",
+    "emoji": "❓📦"
+  },
+  {
+    "id": "gre046",
+    "german": "Das ist ...",
+    "english": "That is ...",
+    "emoji": "👉"
+  },
+  {
+    "id": "gre047",
+    "german": "Ja",
+    "english": "Yes",
+    "emoji": "✅"
+  },
+  {
+    "id": "gre048",
+    "german": "Nein",
+    "english": "No",
+    "emoji": "❌"
+  },
+  {
+    "id": "gre049",
+    "german": "Vielleicht",
+    "english": "Maybe",
+    "emoji": "🤷"
+  },
+  {
+    "id": "gre050",
+    "german": "Ich denke ja",
+    "english": "I think so",
+    "emoji": "🤔"
+  },
+  {
+    "id": "gre051",
+    "german": "Ich denke nein",
+    "english": "I don't think so",
+    "emoji": "🤔"
+  }
+]

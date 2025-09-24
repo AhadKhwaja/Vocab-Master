@@ -1,0 +1,92 @@
+[
+  {
+    "id": "work001",
+    "german": "die Arbeit / die Arbeiten",
+    "english": "work / works",
+    "emoji": "💼"
+  },
+  {
+    "id": "work002",
+    "german": "das Büro / die Büros",
+    "english": "office / offices",
+    "emoji": "🏢"
+  },
+  {
+    "id": "work003",
+    "german": "der Job / die Jobs",
+    "english": "job / jobs",
+    "emoji": "👷"
+  },
+  {
+    "id": "work004",
+    "german": "die Stelle / die Stellen",
+    "english": "position / positions",
+    "emoji": "📄"
+  },
+  {
+    "id": "work005",
+    "german": "die Firma / die Firmen",
+    "english": "company / companies",
+    "emoji": "🏢"
+  },
+  {
+    "id": "work006",
+    "german": "der Chef / die Chefs",
+    "english": "boss (m) / bosses",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": "work007",
+    "german": "die Chefin / die Chefinnen",
+    "english": "boss (f) / bosses",
+    "emoji": "👩‍💼"
+  },
+  {
+    "id": "work008",
+    "german": "der Kollege / die Kollegen",
+    "english": "colleague (m) / colleagues",
+    "emoji": "👨‍💻"
+  },
+  {
+    "id": "work009",
+    "german": "die Kollegin / die Kolleginnen",
+    "english": "colleague (f) / colleagues",
+    "emoji": "👩‍💻"
+  },
+  {
+    "id": "work010",
+    "german": "der Mitarbeiter / die Mitarbeiter",
+    "english": "employee (m) / employees",
+    "emoji": "🧑‍💼"
+  },
+  {
+    "id": "work011",
+    "german": "die Mitarbeiterin / die Mitarbeiterinnen",
+    "english": "employee (f) / employees",
+    "emoji": "🧑‍💼"
+  },
+  {
+    "id": "work012",
+    "german": "der Arbeitgeber / die Arbeitgeber",
+    "english": "employer / employers",
+    "emoji": "🧑‍💼"
+  },
+  {
+    "id": "work013",
+    "german": "der Arbeitnehmer / die Arbeitnehmer",
+    "english": "employee / employees",
+    "emoji": "👷"
+  },
+  {
+    "id": "work014",
+    "german": "der Kunde / die Kunden",
+    "english": "customer (m) / customers",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": "work015",
+    "german": "die Kundin / die Kundinnen",
+    "english": "customer (f) / customers",
+    "emoji": "👩‍💼"
+  }
+]

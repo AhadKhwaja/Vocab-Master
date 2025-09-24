@@ -1,0 +1,173 @@
+[
+  {
+    "id": "travel001",
+    "german": "fahren",
+    "english": "to drive / go",
+    "emoji": "🚗"
+  },
+  {
+    "id": "travel002",
+    "german": "fliegen",
+    "english": "to fly",
+    "emoji": "✈️"
+  },
+  {
+    "id": "travel003",
+    "german": "reisen",
+    "english": "to travel",
+    "emoji": "🧳"
+  },
+  {
+    "id": "travel004",
+    "german": "abfahren",
+    "english": "to depart",
+    "emoji": "🕒"
+  },
+  {
+    "id": "travel005",
+    "german": "ankommen",
+    "english": "to arrive",
+    "emoji": "⌛"
+  },
+  {
+    "id": "travel006",
+    "german": "umsteigen",
+    "english": "to transfer",
+    "emoji": "🔁"
+  },
+  {
+    "id": "travel007",
+    "german": "verpassen",
+    "english": "to miss (bus, train)",
+    "emoji": "😢"
+  },
+  {
+    "id": "travel008",
+    "german": "buchen",
+    "english": "to book",
+    "emoji": "📝"
+  },
+  {
+    "id": "travel009",
+    "german": "reservieren",
+    "english": "to reserve",
+    "emoji": "📅"
+  },
+  {
+    "id": "travel010",
+    "german": "Fahrplan",
+    "article": "der",
+    "english": "schedule",
+    "emoji": "📄"
+  },
+  {
+    "id": "travel011",
+    "german": "Ticket",
+    "article": "das",
+    "english": "ticket",
+    "emoji": "🎫"
+  },
+  {
+    "id": "travel012",
+    "german": "Fahrkarte",
+    "article": "die",
+    "english": "travel pass",
+    "emoji": "🎟️"
+  },
+  {
+    "id": "travel013",
+    "german": "Haltestelle",
+    "article": "die",
+    "english": "stop (bus/train)",
+    "emoji": "🚏"
+  },
+  {
+    "id": "travel014",
+    "german": "Bahnhof",
+    "article": "der",
+    "english": "train station",
+    "emoji": "🚉"
+  },
+  {
+    "id": "travel015",
+    "german": "Flughafen",
+    "article": "der",
+    "english": "airport",
+    "emoji": "🛫"
+  },
+  {
+    "id": "travel016",
+    "german": "Ausgang",
+    "article": "der",
+    "english": "exit",
+    "emoji": "🚪"
+  },
+  {
+    "id": "travel017",
+    "german": "Eingang",
+    "article": "der",
+    "english": "entrance",
+    "emoji": "🚪"
+  },
+  {
+    "id": "travel018",
+    "german": "Koffer",
+    "article": "die",
+    "english": "suitcases",
+    "emoji": "🧳"
+  },
+  {
+    "id": "travel001",
+    "german": "Wie komme ich zum Bahnhof?",
+    "english": "How do I get to the train station?",
+    "emoji": "🚉"
+  },
+  {
+    "id": "travel002",
+    "german": "Ich habe eine Reservierung.",
+    "english": "I have a reservation.",
+    "emoji": "📆"
+  },
+  {
+    "id": "travel003",
+    "german": "Ich möchte ein Ticket nach Berlin.",
+    "english": "I’d like a ticket to Berlin.",
+    "emoji": "🎫"
+  },
+  {
+    "id": "travel004",
+    "german": "Wann fährt der Bus?",
+    "english": "When does the bus leave?",
+    "emoji": "🚌"
+  },
+  {
+    "id": "travel005",
+    "german": "Wie viel kostet das Ticket?",
+    "english": "How much is the ticket?",
+    "emoji": "💰"
+  },
+  {
+    "id": "travel006",
+    "german": "Ich habe meinen Anschluss verpasst.",
+    "english": "I missed my connection.",
+    "emoji": "😢"
+  },
+  {
+    "id": "travel007",
+    "german": "Ist dieser Platz frei?",
+    "english": "Is this seat free?",
+    "emoji": "💺"
+  },
+  {
+    "id": "travel008",
+    "german": "Ich bin fremd hier.",
+    "english": "I’m not from around here.",
+    "emoji": "🙋‍♂️"
+  },
+  {
+    "id": "travel009",
+    "german": "Können Sie mir helfen?",
+    "english": "Can you help me?",
+    "emoji": "🙏"
+  }
+]

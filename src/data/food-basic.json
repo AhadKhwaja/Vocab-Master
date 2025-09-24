@@ -1,0 +1,221 @@
+[
+  {
+    "id": "food001",
+    "german": "Essen",
+    "article": "das",
+    "english": "food",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "food002",
+    "german": "Getränk",
+    "article": "das",
+    "english": "drink",
+    "emoji": "🥤"
+  },
+  {
+    "id": "food003",
+    "german": "Frühstück",
+    "article": "das",
+    "english": "breakfast",
+    "emoji": "🥐"
+  },
+  {
+    "id": "food004",
+    "german": "Mittagessen",
+    "article": "das",
+    "english": "lunch",
+    "emoji": "🍛"
+  },
+  {
+    "id": "food005",
+    "german": "Abendessen",
+    "article": "das",
+    "english": "dinner",
+    "emoji": "🍲"
+  },
+  {
+    "id": "food006",
+    "german": "Mahlzeit",
+    "article": "die",
+    "english": "meal",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "food007",
+    "german": "Snack",
+    "article": "der",
+    "english": "snack",
+    "emoji": "🍪"
+  },
+  {
+    "id": "food008",
+    "german": "Hunger",
+    "article": "der",
+    "english": "hunger",
+    "emoji": "😋"
+  },
+  {
+    "id": "food009",
+    "german": "Durst",
+    "article": "der",
+    "english": "thirst",
+    "emoji": "🥤"
+  },
+  [
+    {
+      "id": "cfood001",
+      "german": "Brot",
+      "article": "das",
+      "english": "bread",
+      "emoji": "🍞"
+    },
+    {
+      "id": "cfood002",
+      "german": "Butter",
+      "article": "die",
+      "english": "butter",
+      "emoji": "🧈"
+    },
+    {
+      "id": "cfood003",
+      "german": "Käse",
+      "article": "der",
+      "english": "cheese",
+      "emoji": "🧀"
+    },
+    {
+      "id": "cfood004",
+      "german": "Wurst",
+      "article": "die",
+      "english": "sausage",
+      "emoji": "🌭"
+    },
+    {
+      "id": "cfood005",
+      "german": "Fleisch",
+      "article": "das",
+      "english": "meat",
+      "emoji": "🍖"
+    },
+    {
+      "id": "cfood006",
+      "german": "Hähnchen",
+      "article": "das",
+      "english": "chicken",
+      "emoji": "🍗"
+    },
+    {
+      "id": "cfood007",
+      "german": "Fisch",
+      "article": "der",
+      "english": "fish",
+      "emoji": "🐟"
+    },
+    {
+      "id": "cfood008",
+      "german": "Ei",
+      "article": "das",
+      "english": "egg",
+      "emoji": "🥚"
+    },
+    {
+      "id": "cfood009",
+      "german": "Reis",
+      "article": "der",
+      "english": "rice",
+      "emoji": "🍚"
+    },
+    {
+      "id": "cfood010",
+      "german": "Nudeln",
+      "article": "die",
+      "english": "noodles / pasta",
+      "emoji": "🍝"
+    },
+    {
+      "id": "cfood011",
+      "german": "Gemüse",
+      "article": "das",
+      "english": "vegetable",
+      "emoji": "🥦"
+    },
+    {
+      "id": "cfood012",
+      "german": "Obst",
+      "article": "das",
+      "english": "fruit",
+      "emoji": "🍎"
+    },
+    {
+      "id": "cfood013",
+      "german": "Kartoffel",
+      "article": "die",
+      "english": "potato",
+      "emoji": "🥔"
+    },
+    {
+      "id": "cfood014",
+      "german": "Tomate",
+      "article": "die",
+      "english": "tomato",
+      "emoji": "🍅"
+    },
+    {
+      "id": "cfood015",
+      "german": "Apfel",
+      "article": "der",
+      "english": "apple",
+      "emoji": "🍏"
+    },
+    {
+      "id": "cfood016",
+      "german": "Banane",
+      "article": "die",
+      "english": "banana",
+      "emoji": "🍌"
+    },
+    {
+      "id": "cfood017",
+      "german": "Orange",
+      "article": "die",
+      "english": "orange",
+      "emoji": "🍊"
+    },
+    {
+      "id": "cfood018",
+      "german": "Zitrone",
+      "article": "die",
+      "english": "lemon",
+      "emoji": "🍋"
+    },
+    {
+      "id": "cfood019",
+      "german": "Zwiebel",
+      "article": "die",
+      "english": "onion",
+      "emoji": "🧅"
+    },
+    {
+      "id": "cfood020",
+      "german": "Knoblauch",
+      "article": "der",
+      "english": "garlic",
+      "emoji": "🧄"
+    },
+    {
+      "id": "cfood021",
+      "german": "Suppe",
+      "article": "die",
+      "english": "soup",
+      "emoji": "🍵"
+    },
+    {
+      "id": "cfood022",
+      "german": "Salat",
+      "article": "der",
+      "english": "salad",
+      "emoji": "🥗"
+    }
+  ]
+]

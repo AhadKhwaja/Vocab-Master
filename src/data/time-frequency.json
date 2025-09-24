@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tf001",
+    "german": "immer",
+    "english": "always",
+    "emoji": "🔁"
+  },
+  {
+    "id": "tf002",
+    "german": "oft",
+    "english": "often",
+    "emoji": "🔄"
+  },
+  {
+    "id": "tf003",
+    "german": "manchmal",
+    "english": "sometimes",
+    "emoji": "🔀"
+  },
+  {
+    "id": "tf004",
+    "german": "selten",
+    "english": "rarely",
+    "emoji": "🐢"
+  },
+  {
+    "id": "tf005",
+    "german": "nie",
+    "english": "never",
+    "emoji": "🚫"
+  },
+  {
+    "id": "tf006",
+    "german": "morgens",
+    "english": "in the morning",
+    "emoji": "🌅"
+  },
+  {
+    "id": "tf007",
+    "german": "mittags",
+    "english": "at noon",
+    "emoji": "☀️"
+  },
+  {
+    "id": "tf008",
+    "german": "abends",
+    "english": "in the evening",
+    "emoji": "🌆"
+  },
+  {
+    "id": "tf009",
+    "german": "nachts",
+    "english": "at night",
+    "emoji": "🌙"
+  },
+  {
+    "id": "tf010",
+    "german": "jeden Tag",
+    "english": "every day",
+    "emoji": "📅"
+  },
+  {
+    "id": "tf011",
+    "german": "am Wochenende",
+    "english": "on the weekend",
+    "emoji": "🗓️"
+  },
+  {
+    "id": "tf012",
+    "german": "um ... Uhr",
+    "english": "at ... o'clock",
+    "emoji": "🕓"
+  }
+]

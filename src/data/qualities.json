@@ -1,0 +1,164 @@
+[
+  {
+    "id": "desc001",
+    "german": "alt",
+    "english": "old",
+    "emoji": "👴"
+  },
+  {
+    "id": "desc002",
+    "german": "jung",
+    "english": "young",
+    "emoji": "👶"
+  },
+  {
+    "id": "desc003",
+    "german": "groß",
+    "english": "tall / big",
+    "emoji": "📏"
+  },
+  {
+    "id": "desc004",
+    "german": "klein",
+    "english": "short / small",
+    "emoji": "📐"
+  },
+  {
+    "id": "desc005",
+    "german": "dick",
+    "english": "fat",
+    "emoji": "🍩"
+  },
+  {
+    "id": "desc006",
+    "german": "dünn / schlank",
+    "english": "thin / slim",
+    "emoji": "🧍"
+  },
+  {
+    "id": "desc007",
+    "german": "stark",
+    "english": "strong",
+    "emoji": "💪"
+  },
+  {
+    "id": "desc008",
+    "german": "schwach",
+    "english": "weak",
+    "emoji": "😩"
+  },
+  {
+    "id": "desc009",
+    "german": "hübsch",
+    "english": "pretty",
+    "emoji": "😊"
+  },
+  {
+    "id": "desc010",
+    "german": "schön",
+    "english": "beautiful",
+    "emoji": "😍"
+  },
+  {
+    "id": "desc011",
+    "german": "hässlich",
+    "english": "ugly",
+    "emoji": "😬"
+  },
+  {
+    "id": "desc012",
+    "german": "freundlich",
+    "english": "friendly",
+    "emoji": "😊"
+  },
+  {
+    "id": "desc013",
+    "german": "nett",
+    "english": "nice",
+    "emoji": "🙂"
+  },
+  {
+    "id": "desc014",
+    "german": "höflich",
+    "english": "polite",
+    "emoji": "🙇"
+  },
+  {
+    "id": "desc015",
+    "german": "unhöflich",
+    "english": "rude",
+    "emoji": "😒"
+  },
+  {
+    "id": "desc016",
+    "german": "lustig",
+    "english": "funny",
+    "emoji": "😂"
+  },
+  {
+    "id": "desc017",
+    "german": "ernst",
+    "english": "serious",
+    "emoji": "😐"
+  },
+  {
+    "id": "desc018",
+    "german": "klug",
+    "english": "smart",
+    "emoji": "🧠"
+  },
+  {
+    "id": "desc019",
+    "german": "dumm",
+    "english": "dumb",
+    "emoji": "🤪"
+  },
+  {
+    "id": "desc020",
+    "german": "laut",
+    "english": "loud",
+    "emoji": "🔊"
+  },
+  {
+    "id": "desc021",
+    "german": "leise",
+    "english": "quiet",
+    "emoji": "🤫"
+  },
+  {
+    "id": "desc022",
+    "german": "ruhig",
+    "english": "calm",
+    "emoji": "😌"
+  },
+  {
+    "id": "desc023",
+    "german": "nervös",
+    "english": "nervous",
+    "emoji": "😬"
+  },
+  {
+    "id": "desc024",
+    "german": "schüchtern",
+    "english": "shy",
+    "emoji": "🙈"
+  },
+  {
+    "id": "desc025",
+    "german": "offen",
+    "english": "open-minded",
+    "emoji": "🌟"
+  },
+  {
+    "id": "desc026",
+    "german": "fleißig",
+    "english": "hardworking",
+    "emoji": "🐝"
+  },
+  {
+    "id": "desc027",
+    "german": "faul",
+    "english": "lazy",
+    "emoji": "😴"
+  }
+]

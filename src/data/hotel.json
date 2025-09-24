@@ -1,0 +1,92 @@
+[
+  {
+    "id": "hotel001",
+    "german": "Hotel",
+    "article": "das",
+    "english": "hotel",
+    "emoji": "🏨"
+  },
+  {
+    "id": "hotel002",
+    "german": "Rezeption",
+    "article": "die",
+    "english": "reception",
+    "emoji": "🛎️"
+  },
+  {
+    "id": "hotel003",
+    "german": "Zimmer",
+    "article": "das",
+    "english": "room",
+    "emoji": "🛏️"
+  },
+  {
+    "id": "hotel004",
+    "german": "Einzelzimmer",
+    "article": "das",
+    "english": "single room",
+    "emoji": "👤"
+  },
+  {
+    "id": "hotel005",
+    "german": "Doppelzimmer",
+    "article": "das",
+    "english": "double room",
+    "emoji": "👥"
+  },
+  {
+    "id": "hotel006",
+    "german": "buchen / reservieren",
+    "english": "to book / to reserve",
+    "emoji": "📆"
+  },
+  {
+    "id": "hotel007",
+    "german": "Schlüssel",
+    "article": "der",
+    "english": "key",
+    "emoji": "🔑"
+  },
+  {
+    "id": "hotel008",
+    "german": "Buchung",
+    "article": "die",
+    "english": "reservation",
+    "emoji": "🧾"
+  },
+  {
+    "id": "hotel009",
+    "german": "Aufzug",
+    "article": "der",
+    "english": "elevator",
+    "emoji": "🛗"
+  },
+  {
+    "id": "hotel010",
+    "german": "Erdgeschoss",
+    "article": "das",
+    "english": "ground floor",
+    "emoji": "🧱"
+  },
+  {
+    "id": "hotel011",
+    "german": "Stock",
+    "article": "der",
+    "english": "floor",
+    "emoji": null
+  },
+  {
+    "id": "hotel012",
+    "german": "Frühstück",
+    "article": "das",
+    "english": "breakfast",
+    "emoji": "🥐"
+  },
+  {
+    "id": "hotel013",
+    "german": "Rechnung",
+    "article": "die",
+    "english": "bill",
+    "emoji": "🧾"
+  }
+]

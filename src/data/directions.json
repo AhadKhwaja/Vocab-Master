@@ -1,0 +1,104 @@
+[
+  {
+    "id": "dir001",
+    "german": "Wo ist ...?",
+    "english": "Where is ...?",
+    "emoji": "📍"
+  },
+  {
+    "id": "dir002",
+    "german": "nach rechts",
+    "english": "to the right",
+    "emoji": "↪️"
+  },
+  {
+    "id": "dir003",
+    "german": "nach links",
+    "english": "to the left",
+    "emoji": "↩️"
+  },
+  {
+    "id": "dir004",
+    "german": "geradeaus",
+    "english": "straight ahead",
+    "emoji": "⬆️"
+  },
+  {
+    "id": "dir005",
+    "german": "zurück",
+    "english": "back",
+    "emoji": "↩️"
+  },
+  {
+    "id": "dir006",
+    "german": "die Straße",
+    "english": "street",
+    "emoji": "🛣️"
+  },
+  {
+    "id": "dir007",
+    "german": "die Kreuzung",
+    "english": "intersection",
+    "emoji": "🚦"
+  },
+  {
+    "id": "dir008",
+    "german": "die Ampel",
+    "english": "traffic light",
+    "emoji": "🚦"
+  },
+  {
+    "id": "dir009",
+    "german": "die Brücke",
+    "english": "bridge",
+    "emoji": "🌉"
+  },
+  {
+    "id": "dir010",
+    "german": "der Weg",
+    "english": "path / way",
+    "emoji": "🛤️"
+  },
+  {
+    "id": "dir011",
+    "german": "die Ecke",
+    "english": "corner",
+    "emoji": "⤴️"
+  },
+  {
+    "id": "dir012",
+    "german": "der Kreisverkehr",
+    "english": "roundabout",
+    "emoji": "🔁"
+  },
+  {
+    "id": "dir013",
+    "german": "in der Nähe",
+    "english": "nearby",
+    "emoji": "🗺️"
+  },
+  {
+    "id": "dir014",
+    "german": "weit weg",
+    "english": "far away",
+    "emoji": "🗺️"
+  },
+  {
+    "id": "dir015",
+    "german": "neben",
+    "english": "next to",
+    "emoji": "🧍‍♂️"
+  },
+  {
+    "id": "dir016",
+    "german": "gegenüber",
+    "english": "opposite",
+    "emoji": "↔️"
+  },
+  {
+    "id": "dir017",
+    "german": "zwischen",
+    "english": "between",
+    "emoji": "🔁"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "sch001",
+    "german": "Schule",
+    "article": "die",
+    "english": "school",
+    "emoji": "🏫"
+  },
+  {
+    "id": "sch002",
+    "german": "Schüler",
+    "article": "der",
+    "english": "student (m, school)",
+    "emoji": "👦"
+  },
+  {
+    "id": "sch003",
+    "german": "Schülerin",
+    "article": "die",
+    "english": "student (f, school)",
+    "emoji": "👧"
+  },
+  {
+    "id": "sch004",
+    "german": "Lehrer",
+    "article": "der",
+    "english": "teacher (m)",
+    "emoji": "👨‍🏫"
+  },
+  {
+    "id": "sch005",
+    "german": "Lehrerin",
+    "article": "die",
+    "english": "teacher (f)",
+    "emoji": "👩‍🏫"
+  },
+  {
+    "id": "sch006",
+    "german": "Klassenzimmer",
+    "article": "das",
+    "english": "classroom",
+    "emoji": "🪑"
+  },
+  {
+    "id": "sch007",
+    "german": "Fach",
+    "article": "das",
+    "english": "subject",
+    "emoji": "📘"
+  },
+  {
+    "id": "sch008",
+    "german": "Hausaufgabe",
+    "article": "die",
+    "english": "homework",
+    "emoji": "📚"
+  },
+  {
+    "id": "sch009",
+    "german": "Test",
+    "article": "der",
+    "english": "test",
+    "emoji": "📝"
+  },
+  {
+    "id": "sch010",
+    "german": "Prüfung",
+    "article": "die",
+    "english": "exam",
+    "emoji": "🧠"
+  },
+  {
+    "id": "sch011",
+    "german": "Heft",
+    "article": "das",
+    "english": "notebook",
+    "emoji": "📓"
+  },
+  {
+    "id": "sch012",
+    "german": "Buch",
+    "article": "das",
+    "english": "book",
+    "emoji": "📖"
+  },
+  {
+    "id": "sch013",
+    "german": "Lineal",
+    "article": "das",
+    "english": "ruler",
+    "emoji": "📏"
+  },
+  {
+    "id": "sch014",
+    "german": "Stift",
+    "article": "der",
+    "english": "pen/pencil",
+    "emoji": "✏️"
+  },
+  {
+    "id": "sch015",
+    "german": "Radiergummi",
+    "article": "der",
+    "english": "eraser",
+    "emoji": "🧽"
+  },
+  {
+    "id": "sch016",
+    "german": "lernen",
+    "english": "to learn",
+    "emoji": "🧠"
+  },
+  {
+    "id": "sch017",
+    "german": "studieren",
+    "english": "to study (university)",
+    "emoji": "📚"
+  },
+  {
+    "id": "sch018",
+    "german": "verstehen",
+    "english": "to understand",
+    "emoji": "🧠"
+  },
+  {
+    "id": "sch019",
+    "german": "wiederholen",
+    "english": "to repeat",
+    "emoji": "🔁"
+  }
+]

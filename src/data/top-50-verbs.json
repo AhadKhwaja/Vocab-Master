@@ -1,0 +1,296 @@
+[
+  {
+    "id": "verb001",
+    "german": "sein",
+    "english": "to be",
+    "emoji": "🔷"
+  },
+  {
+    "id": "verb002",
+    "german": "haben",
+    "english": "to have",
+    "emoji": "📦"
+  },
+  {
+    "id": "verb003",
+    "german": "werden",
+    "english": "to become / will",
+    "emoji": "🔄"
+  },
+  {
+    "id": "verb004",
+    "german": "gehen",
+    "english": "to go",
+    "emoji": "🚶"
+  },
+  {
+    "id": "verb005",
+    "german": "kommen",
+    "english": "to come",
+    "emoji": "🧳"
+  },
+  {
+    "id": "verb006",
+    "german": "machen",
+    "english": "to do / make",
+    "emoji": "🛠️"
+  },
+  {
+    "id": "verb007",
+    "german": "tun",
+    "english": "to do",
+    "emoji": "🧰"
+  },
+  {
+    "id": "verb008",
+    "german": "sagen",
+    "english": "to say",
+    "emoji": "🗣️"
+  },
+  {
+    "id": "verb009",
+    "german": "sprechen",
+    "english": "to speak",
+    "emoji": "🗨️"
+  },
+  {
+    "id": "verb010",
+    "german": "hören",
+    "english": "to hear",
+    "emoji": "👂"
+  },
+  {
+    "id": "verb011",
+    "german": "sehen",
+    "english": "to see",
+    "emoji": "👀"
+  },
+  {
+    "id": "verb012",
+    "german": "lesen",
+    "english": "to read",
+    "emoji": "📖"
+  },
+  {
+    "id": "verb013",
+    "german": "schreiben",
+    "english": "to write",
+    "emoji": "✍️"
+  },
+  {
+    "id": "verb014",
+    "german": "essen",
+    "english": "to eat",
+    "emoji": "🍽️"
+  },
+  {
+    "id": "verb015",
+    "german": "trinken",
+    "english": "to drink",
+    "emoji": "🥤"
+  },
+  {
+    "id": "verb016",
+    "german": "schlafen",
+    "english": "to sleep",
+    "emoji": "😴"
+  },
+  {
+    "id": "verb017",
+    "german": "nehmen",
+    "english": "to take",
+    "emoji": "✋"
+  },
+  {
+    "id": "verb018",
+    "german": "geben",
+    "english": "to give",
+    "emoji": "🎁"
+  },
+  {
+    "id": "verb019",
+    "german": "bringen",
+    "english": "to bring",
+    "emoji": "📦"
+  },
+  {
+    "id": "verb020",
+    "german": "finden",
+    "english": "to find",
+    "emoji": "🔍"
+  },
+  {
+    "id": "verb021",
+    "german": "denken",
+    "english": "to think",
+    "emoji": "💭"
+  },
+  {
+    "id": "verb022",
+    "german": "glauben",
+    "english": "to believe",
+    "emoji": "🙏"
+  },
+  {
+    "id": "verb023",
+    "german": "kennen",
+    "english": "to know (person)",
+    "emoji": "👥"
+  },
+  {
+    "id": "verb024",
+    "german": "wissen",
+    "english": "to know (fact)",
+    "emoji": "📚"
+  },
+  {
+    "id": "verb025",
+    "german": "arbeiten",
+    "english": "to work",
+    "emoji": "💼"
+  },
+  {
+    "id": "verb026",
+    "german": "lernen",
+    "english": "to learn",
+    "emoji": "📘"
+  },
+  {
+    "id": "verb027",
+    "german": "studieren",
+    "english": "to study",
+    "emoji": "🎓"
+  },
+  {
+    "id": "verb028",
+    "german": "verstehen",
+    "english": "to understand",
+    "emoji": "🤔"
+  },
+  {
+    "id": "verb029",
+    "german": "fragen",
+    "english": "to ask",
+    "emoji": "❓"
+  },
+  {
+    "id": "verb030",
+    "german": "antworten",
+    "english": "to answer",
+    "emoji": "💬"
+  },
+  {
+    "id": "verb031",
+    "german": "brauchen",
+    "english": "to need",
+    "emoji": "🧾"
+  },
+  {
+    "id": "verb032",
+    "german": "mögen",
+    "english": "to like",
+    "emoji": "💖"
+  },
+  {
+    "id": "verb033",
+    "german": "lieben",
+    "english": "to love",
+    "emoji": "❤️"
+  },
+  {
+    "id": "verb034",
+    "german": "helfen",
+    "english": "to help",
+    "emoji": "🤝"
+  },
+  {
+    "id": "verb035",
+    "german": "warten",
+    "english": "to wait",
+    "emoji": "⏳"
+  },
+  {
+    "id": "verb036",
+    "german": "beginnen",
+    "english": "to begin",
+    "emoji": "🆕"
+  },
+  {
+    "id": "verb037",
+    "german": "bleiben",
+    "english": "to stay",
+    "emoji": "📍"
+  },
+  {
+    "id": "verb038",
+    "german": "reisen",
+    "english": "to travel",
+    "emoji": "✈️"
+  },
+  {
+    "id": "verb039",
+    "german": "spielen",
+    "english": "to play",
+    "emoji": "🎮"
+  },
+  {
+    "id": "verb040",
+    "german": "fahren",
+    "english": "to drive/go",
+    "emoji": "🚗"
+  },
+  {
+    "id": "verb041",
+    "german": "laufen",
+    "english": "to run",
+    "emoji": "🏃"
+  },
+  {
+    "id": "verb042",
+    "german": "öffnen",
+    "english": "to open",
+    "emoji": "🚪"
+  },
+  {
+    "id": "verb043",
+    "german": "schließen",
+    "english": "to close",
+    "emoji": "🔒"
+  },
+  {
+    "id": "verb044",
+    "german": "kaufen",
+    "english": "to buy",
+    "emoji": "🛒"
+  },
+  {
+    "id": "verb045",
+    "german": "verkaufen",
+    "english": "to sell",
+    "emoji": "💸"
+  },
+  {
+    "id": "verb046",
+    "german": "bezahlen",
+    "english": "to pay",
+    "emoji": "💳"
+  },
+  {
+    "id": "verb047",
+    "german": "leben",
+    "english": "to live",
+    "emoji": "🌱"
+  },
+  {
+    "id": "verb048",
+    "german": "wohnen",
+    "english": "to reside",
+    "emoji": "🏠"
+  },
+  {
+    "id": "verb049",
+    "german": "fühlen",
+    "english": "to feel",
+    "emoji": "🫶"
+  }
+]

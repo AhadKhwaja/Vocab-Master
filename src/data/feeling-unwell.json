@@ -1,0 +1,68 @@
+[
+  {
+    "id": "unwell001",
+    "german": "Ich bin krank.",
+    "english": "I’m sick.",
+    "emoji": "🤒"
+  },
+  {
+    "id": "unwell002",
+    "german": "Ich habe Kopfschmerzen.",
+    "english": "I have a headache.",
+    "emoji": "🤕"
+  },
+  {
+    "id": "unwell003",
+    "german": "Ich habe Bauchschmerzen.",
+    "english": "I have stomach pain.",
+    "emoji": "🤢"
+  },
+  {
+    "id": "unwell004",
+    "german": "Ich habe Halsschmerzen.",
+    "english": "I have a sore throat.",
+    "emoji": "😷"
+  },
+  {
+    "id": "unwell005",
+    "german": "Ich bin müde.",
+    "english": "I’m tired.",
+    "emoji": "😴"
+  },
+  {
+    "id": "unwell006",
+    "german": "Mir ist schlecht.",
+    "english": "I feel sick.",
+    "emoji": "🤮"
+  },
+  {
+    "id": "unwell007",
+    "german": "Mir ist schwindlig.",
+    "english": "I feel dizzy.",
+    "emoji": "😵"
+  },
+  {
+    "id": "unwell008",
+    "german": "Ich habe Fieber.",
+    "english": "I have a fever.",
+    "emoji": "🌡️"
+  },
+  {
+    "id": "unwell009",
+    "german": "Ich huste.",
+    "english": "I’m coughing.",
+    "emoji": "🤧"
+  },
+  {
+    "id": "unwell010",
+    "german": "Ich niese.",
+    "english": "I’m sneezing.",
+    "emoji": "🤧"
+  },
+  {
+    "id": "unwell011",
+    "german": "Ich habe Schnupfen.",
+    "english": "I have a runny nose.",
+    "emoji": "🤧"
+  }
+]
