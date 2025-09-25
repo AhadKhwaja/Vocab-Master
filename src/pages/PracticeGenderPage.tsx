@@ -11,6 +11,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
+import { AnswerAnimation } from "../components/AnswerAnimation";
+import { IconArrowLeft } from "@tabler/icons-react";
 
 type Article = "der" | "die" | "das";
 
@@ -104,53 +106,18 @@ export function PracticeGenderPage({
       }}
     >
       <Group justify="space-between" mb="xl">
-        <Button variant="outline" onClick={onBack}>
+        <Button
+          variant="outline"
+          leftSection={<IconArrowLeft />}
+          onClick={onBack}
+        >
           Back
         </Button>
         <Text>{`${currentIndex + 1} / ${words.length}`}</Text>
       </Group>
 
       <div style={{ flex: 1, perspective: "1000px", position: "relative" }}>
-        <Center
-          style={{
-            position: "absolute",
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            zIndex: 10,
-            pointerEvents: "none",
-          }}
-        >
-          {answerStatus === "correct" && (
-            <ConfettiExplosion {...bigExplodeProps} />
-          )}
-          <AnimatePresence>
-            {answerStatus === "incorrect" && (
-              <motion.svg
-                key="incorrect-cross"
-                width="150"
-                height="150"
-                viewBox="0 0 24 24"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-                initial={{ opacity: 0, scale: 0.5 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 2, transition: { duration: 0.2 } }}
-                transition={{ type: "spring", stiffness: 300, damping: 15 }}
-              >
-                <motion.path
-                  d="M18 6L6 18M6 6l12 12"
-                  stroke="#FF6B6B"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </motion.svg>
-            )}
-          </AnimatePresence>
-        </Center>
-
+        <AnswerAnimation status={answerStatus} />
         <SpinnerCard
           word={currentWord}
           isFlipped={isFlipped}

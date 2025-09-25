@@ -29,10 +29,10 @@ function App() {
   const [currentPage, setCurrentPage] = useState<Page>("home");
   const [learningMode, setLearningMode] = useState<LearningMode | null>(null);
   const [category, setCategory] = useState<string | null>(null);
-  const [colorScheme, setColorScheme] = useState<"light" | "dark">("dark");
+  const [colorScheme, setColorScheme] = useState<"light" | "dark">("light");
   const [initialWordId, setInitialWordId] = useState<string | null>(null);
   const { loadAllWords } = useWordStore();
-  
+
   useEffect(() => {
     loadAllWords();
   }, [loadAllWords]);
@@ -92,19 +92,17 @@ function App() {
     setCurrentPage("startLearning");
   };
 
-  const primaryColor = colorScheme === "dark" ? "grape" : "teal";
+  const primaryColor = colorScheme === "dark" ? "gray" : "dark";
 
   return (
     <MantineProvider theme={{ primaryColor }} forceColorScheme={colorScheme}>
       <AppShell padding="md" header={{ height: 60 }}>
-        <AppShell.Header>
-          <Header
-            toggleColorScheme={toggleColorScheme}
-            colorScheme={colorScheme}
-            onHomeClick={handleHomeClick}
-            onSearchSelect={handleSearchSelect}
-          />
-        </AppShell.Header>
+        <Header
+          toggleColorScheme={toggleColorScheme}
+          colorScheme={colorScheme}
+          onHomeClick={handleHomeClick}
+          onSearchSelect={handleSearchSelect}
+        />
 
         <AppShell.Main>
           <AppRouter

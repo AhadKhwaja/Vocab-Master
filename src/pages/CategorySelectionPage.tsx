@@ -11,6 +11,7 @@ import type { LearningMode } from "../App";
 import { motion } from "framer-motion";
 import { Categories } from "../utils/Categories";
 import type { Category } from "../types/DataFileType";
+import { IconArrowLeft } from "@tabler/icons-react";
 
 const modeTitles = {
   startLearning: "Start Learning",
@@ -51,12 +52,15 @@ export function CategorySelectionPage({
     <Container size="md" py="xl">
       <Group justify="space-between" mb="xl">
         <Title order={1}>{title}</Title>
-        <Button variant="outline" onClick={onBack}>
+        <Button
+          variant="outline"
+          leftSection={<IconArrowLeft />}
+          onClick={onBack}
+        >
           Back
         </Button>
       </Group>
 
-      <Text mb="md">Please select a category to begin:</Text>
       <motion.div
         variants={containerVariants}
         initial="hidden"

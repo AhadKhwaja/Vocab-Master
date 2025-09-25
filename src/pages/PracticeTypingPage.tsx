@@ -11,6 +11,8 @@ import { motion } from "framer-motion";
 import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
+import { AnswerAnimation } from "../components/AnswerAnimation";
+import { IconArrowLeft } from "@tabler/icons-react";
 
 interface PracticeTypingPageProps {
   category: string;
@@ -87,44 +89,18 @@ export function PracticeTypingPage({
       style={{ display: "flex", flexDirection: "column", height: "100vh" }}
     >
       <Group justify="space-between" mb="xl">
-        <Button variant="outline" onClick={onBack}>
+        <Button
+          variant="outline"
+          leftSection={<IconArrowLeft />}
+          onClick={onBack}
+        >
           Back
         </Button>
         <Text>{`${currentIndex + 1} / ${words.length}`}</Text>
       </Group>
 
       <div style={{ flex: 1, perspective: "1000px", position: "relative" }}>
-        <Center
-          style={{
-            position: "absolute",
-            inset: 0,
-            zIndex: 10,
-            pointerEvents: "none",
-          }}
-        >
-          {answerStatus === "correct" && <ConfettiExplosion />}
-          {answerStatus === "incorrect" && (
-            <svg
-              width="150"
-              height="150"
-              viewBox="0 0 24 24"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <motion.path
-                d="M18 6L6 18M6 6l12 12"
-                stroke="#FF6B6B"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                initial={{ scale: 0.5, opacity: 0 }}
-                animate={{ scale: 1, opacity: 1 }}
-                transition={{ type: "spring", stiffness: 300, damping: 15 }}
-              />
-            </svg>
-          )}
-        </Center>
-
+        <AnswerAnimation status={answerStatus} />
         <SpinnerCard
           word={currentWord}
           isFlipped={!isFlipped}

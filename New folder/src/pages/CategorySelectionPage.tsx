@@ -28,8 +28,7 @@ interface CategorySelectionPageProps {
   mode: LearningMode | null;
 }
 
-export function CategorySelectionPage({
-  onBack,
+export function CategorySelectionPage({  onBack,
   onCategorySelect,
   mode,
 }: CategorySelectionPageProps) {
@@ -43,8 +42,6 @@ export function CategorySelectionPage({
           Back
         </Button>
       </Group>
-
-      <Text mb="md">Please select a category to begin:</Text>
 
       <Grid>
         {categories.map((category) => (

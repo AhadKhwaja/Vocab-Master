@@ -38,6 +38,7 @@ export function Header({
       px="md"
       style={{
         padding: "0.5rem 1rem",
+        // background: "#242424",
       }}
     >
       <Group>
@@ -57,7 +58,7 @@ export function Header({
         <Autocomplete
           placeholder="Search words..."
           data={searchData}
-          limit={5}
+          limit={10}
           leftSection={<IconSearch size="1rem" />}
           filter={({ options, search }) => {
             const lowerSearch = search.toLowerCase().trim();

@@ -7,6 +7,7 @@ import {
   Group,
   Button,
   SimpleGrid,
+  FileButton,
 } from "@mantine/core";
 import { IconArrowLeft, IconDownload, IconUpload } from "@tabler/icons-react";
 import type { Word } from "../App";
@@ -31,11 +32,9 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
     linkElement.click();
   };
 
-  const handleImport = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const fileReader = new FileReader();
-    const file = event.target.files?.[0];
-
+  const handleImport = (file: File | null) => {
     if (file) {
+      const fileReader = new FileReader();
       fileReader.readAsText(file, "UTF-8");
       fileReader.onload = (e) => {
         try {
@@ -68,27 +67,16 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
         </Button>
         <Title order={1}>Saved Words</Title>
         <Group>
-          <Button
-            variant="default"
-            onClick={handleDownload}
-            leftSection={<IconDownload />}
-          >
+          <Button onClick={handleDownload} leftSection={<IconDownload />}>
             Download
           </Button>
-          <input
-            type="file"
-            id="file-upload"
-            style={{ display: "none" }}
-            onChange={handleImport}
-            accept=".json"
-          />
-          <Button
-            variant="default"
-            onClick={() => document.getElementById("file-upload")?.click()}
-            leftSection={<IconUpload />}
-          >
-            Import
-          </Button>
+          <FileButton onChange={handleImport} accept=".json">
+            {(props) => (
+              <Button {...props} leftSection={<IconUpload />}>
+                Import
+              </Button>
+            )}
+          </FileButton>
         </Group>
       </Group>
 
@@ -104,7 +92,7 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
               radius="md"
               style={{ cursor: "pointer", height: "200px" }}
             >
-              <SpinnerCard showGender={true} word={word} />
+              <SpinnerCard word={word} showGender={true} />
             </Paper>
           ))}
         </SimpleGrid>

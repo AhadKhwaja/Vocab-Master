@@ -1,15 +1,6 @@
 import { useState, useEffect } from "react";
-import {
-  Container,
-  Text,
-  Group,
-  Button,
-  Center,
-} from "@mantine/core";
-import {
-  IconArrowLeft,
-  IconArrowRight,
-} from "@tabler/icons-react";
+import { Container, Text, Group, Button, Center } from "@mantine/core";
+import { IconArrowLeft, IconArrowRight } from "@tabler/icons-react";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
 
@@ -18,7 +9,10 @@ interface StartLearningPageProps {
   onBack: () => void;
 }
 
-export function StartLearningPage({ category, onBack }: StartLearningPageProps) {
+export function StartLearningPage({
+  category,
+  onBack,
+}: StartLearningPageProps) {
   const [words, setWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
@@ -30,10 +24,12 @@ export function StartLearningPage({ category, onBack }: StartLearningPageProps) 
       setIsLoading(true);
       try {
         const data = await import(`../data/${category}.json`);
-        setWords(data.default.map((word: Omit<Word, "category">) => ({
-          ...word,
-          category,
-        })));
+        setWords(
+          data.default.map((word: Omit<Word, "category">) => ({
+            ...word,
+            category,
+          }))
+        );
       } catch (error) {
         console.error("Failed to load words:", error);
       } finally {
@@ -75,16 +71,18 @@ export function StartLearningPage({ category, onBack }: StartLearningPageProps) 
       style={{ display: "flex", flexDirection: "column", height: "100vh" }}
     >
       <Group justify="space-between" mb="xl">
-        <Button variant="outline" onClick={onBack}>
+        <Button
+          variant="outline"
+          leftSection={<IconArrowLeft />}
+          onClick={onBack}
+        >
           Back
         </Button>
         <Text>{`${currentIndex + 1} / ${words.length}`}</Text>
       </Group>
 
       {/* Card Flip Container */}
-      <div
-        style={{ flex: 1, perspective: "1000px" }}
-      >
+      <div style={{ flex: 1, perspective: "1000px" }}>
         <SpinnerCard
           word={currentWord}
           isFlipped={isFlipped}
