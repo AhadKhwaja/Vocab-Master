@@ -7,8 +7,6 @@ import {
   Center,
   SimpleGrid,
 } from "@mantine/core";
-import { motion, AnimatePresence } from "framer-motion";
-import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
 import { AnswerAnimation } from "../components/AnswerAnimation";
@@ -86,14 +84,6 @@ export function PracticeGenderPage({
   }
 
   const currentWord = words[currentIndex];
-
-  const bigExplodeProps = {
-    force: 0.6,
-    duration: 5000,
-    particleCount: 200,
-    floorHeight: 1600,
-    floorWidth: 1600,
-  };
 
   return (
     <Container

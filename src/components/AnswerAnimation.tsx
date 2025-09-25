@@ -1,4 +1,3 @@
-import React from "react";
 import { Center } from "@mantine/core";
 import { motion, AnimatePresence } from "framer-motion";
 import ConfettiExplosion from "react-confetti-explosion";

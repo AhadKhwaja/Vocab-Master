@@ -7,8 +7,6 @@ import {
   Center,
   TextInput,
 } from "@mantine/core";
-import { motion } from "framer-motion";
-import ConfettiExplosion from "react-confetti-explosion";
 import type { Word } from "../App";
 import { SpinnerCard } from "../components/SpinnerCard";
 import { AnswerAnimation } from "../components/AnswerAnimation";
