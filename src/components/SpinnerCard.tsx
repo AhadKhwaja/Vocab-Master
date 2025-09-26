@@ -4,12 +4,14 @@ import { IconVolume, IconStarFilled, IconStar } from "@tabler/icons-react";
 import { motion } from "framer-motion";
 import type { Word } from "../App";
 import { useWordStore } from "../store/store";
+import { speak } from "../utils/speak";
 
 interface SpinnerCardProps {
   word: Word;
   showGender: boolean;
   isFlipped?: boolean;
   onFlip?: () => void;
+  speakArticle?: boolean;
 }
 
 export function SpinnerCard({
@@ -17,6 +19,7 @@ export function SpinnerCard({
   isFlipped,
   onFlip,
   showGender,
+  speakArticle,
 }: SpinnerCardProps) {
   // Use internal state if not controlled by parent
   const [internalIsFlipped, setInternalIsFlipped] = useState(false);
@@ -39,12 +42,6 @@ export function SpinnerCard({
     }
   };
 
-  const speak = (text: string) => {
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = "de-DE";
-    window.speechSynthesis.speak(utterance);
-  };
-
   const handleCardClick = () => {
     if (isControlled && onFlip) {
       onFlip();
@@ -64,6 +61,7 @@ export function SpinnerCard({
       animate={{ rotateY: currentIsFlipped ? 180 : 0 }}
       transition={{ duration: 0.6 }}
       onClick={handleCardClick}
+      
     >
       {/* Front of the Card */}
       <Paper
@@ -88,7 +86,9 @@ export function SpinnerCard({
           style={{ position: "absolute", top: 10, left: 10 }}
           onClick={(e) => {
             e.stopPropagation();
-            speak(fullGermanWord);
+            speakArticle
+              ? speak(fullGermanWord)
+              : speak(fullGermanWord.split(" ")[1]);
           }}
         >
           <IconVolume />

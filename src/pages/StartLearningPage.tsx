@@ -7,11 +7,13 @@ import { SpinnerCard } from "../components/SpinnerCard";
 interface StartLearningPageProps {
   category: string;
   onBack: () => void;
+  initialWordId?: string | null;
 }
 
 export function StartLearningPage({
   category,
   onBack,
+  initialWordId,
 }: StartLearningPageProps) {
   const [words, setWords] = useState<Word[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -24,12 +26,22 @@ export function StartLearningPage({
       setIsLoading(true);
       try {
         const data = await import(`../data/${category}.json`);
-        setWords(
-          data.default.map((word: Omit<Word, "category">) => ({
+        const wordsForCategory = data.default.map(
+          (word: Omit<Word, "category">) => ({
             ...word,
             category,
-          }))
-        );
+          })
+        ) as Word[];
+        setWords(wordsForCategory);
+
+        if (initialWordId) {
+          const startIndex = wordsForCategory.findIndex(
+            (word: Word) => word.id === initialWordId
+          );
+          if (startIndex !== -1) {
+            setCurrentIndex(startIndex);
+          }
+        }
       } catch (error) {
         console.error("Failed to load words:", error);
       } finally {
@@ -37,7 +49,7 @@ export function StartLearningPage({
       }
     };
     fetchWords();
-  }, [category]);
+  }, [category, initialWordId]);
 
   const handleNext = () => {
     setIsFlipped(false);
@@ -82,12 +94,13 @@ export function StartLearningPage({
       </Group>
 
       {/* Card Flip Container */}
-      <div style={{ flex: 1, perspective: "1000px" }}>
+      <div style={{  height: "400px" }}>
         <SpinnerCard
           word={currentWord}
           isFlipped={isFlipped}
           onFlip={() => setIsFlipped(!isFlipped)}
           showGender={true}
+          speakArticle={true}
         />
       </div>
 

@@ -1,6 +1,5 @@
 import {
   Container,
-  Paper,
   Title,
   Text,
   Group,
@@ -15,6 +14,7 @@ import { SpinnerCard } from "../components/SpinnerCard";
 
 interface SavedWordsPageProps {
   onBack: () => void;
+  onWordSelect: (word: Word) => void;
 }
 
 export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
@@ -86,13 +86,9 @@ export function SavedWordsPage({ onBack }: SavedWordsPageProps) {
       ) : (
         <SimpleGrid cols={{ base: 1, sm: 2, lg: 3 }} spacing="lg">
           {savedWords.map((word: Word) => (
-            <Paper
-              key={word.id}
-              radius="md"
-              style={{ cursor: "pointer", height: "200px" }}
-            >
-              <SpinnerCard word={word} showGender={true} />
-            </Paper>
+            <div key={word.id} style={{ height: "200px", cursor: "pointer" }}>
+              <SpinnerCard word={word} showGender={true} speakArticle={true} />
+            </div>
           ))}
         </SimpleGrid>
       )}

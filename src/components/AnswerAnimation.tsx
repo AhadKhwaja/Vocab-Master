@@ -19,7 +19,7 @@ export function AnswerAnimation({ status }: AnswerAnimationProps) {
     <Center
       style={{
         position: "absolute",
-        top: 0,
+        top: 10,
         left: 0,
         right: 0,
         bottom: 0,

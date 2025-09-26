@@ -106,13 +106,14 @@ export function PracticeGenderPage({
         <Text>{`${currentIndex + 1} / ${words.length}`}</Text>
       </Group>
 
-      <div style={{ flex: 1, perspective: "1000px", position: "relative" }}>
+      <div style={{ height: "400px", position: "relative" }}>
         <AnswerAnimation status={answerStatus} />
         <SpinnerCard
           word={currentWord}
           isFlipped={isFlipped}
           onFlip={() => answerStatus && setIsFlipped(!isFlipped)}
-          showGender={false}
+          showGender={!!answerStatus}
+          speakArticle={!!answerStatus}
         />
       </div>
 

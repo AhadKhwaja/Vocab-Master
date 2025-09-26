@@ -1,8 +1,7 @@
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import { MantineProvider, AppShell } from "@mantine/core";
 import { Header } from "./components/Header";
 import { AppRouter } from "./AppRouter";
-import type { Category } from "./types/DataFileType";
 import { useWordStore } from "./store/store";
 export type Page =
   | "home"
@@ -26,71 +25,27 @@ export interface Word {
 }
 
 function App() {
-  const [currentPage, setCurrentPage] = useState<Page>("home");
-  const [learningMode, setLearningMode] = useState<LearningMode | null>(null);
-  const [category, setCategory] = useState<string | null>(null);
   const [colorScheme, setColorScheme] = useState<"light" | "dark">("light");
-  const [initialWordId, setInitialWordId] = useState<string | null>(null);
-  const { loadAllWords } = useWordStore();
+  const {
+    loadAllWords,
+    currentPage,
+    learningMode,
+    category,
+    initialWordId,
+    handleModeSelect,
+    handleCategorySelect,
+    handleGoBack,
+    handleHomeClick,
+    handleSearchSelect,
+    handleSavedWordSelect,
+  } = useWordStore();
 
   useEffect(() => {
     loadAllWords();
   }, [loadAllWords]);
 
-  const handleSearchSelect = (word: Word) => {
-    setCategory(word.category);
-    setInitialWordId(word.id);
-    setCurrentPage("startLearning");
-  };
-
   const toggleColorScheme = () =>
     setColorScheme((current) => (current === "dark" ? "light" : "dark"));
-
-  const handleModeSelect = (mode: LearningMode) => {
-    setLearningMode(mode);
-    if (mode === "savedWords") {
-      setCurrentPage("savedWords");
-    } else {
-      setCurrentPage("categorySelection");
-    }
-  };
-
-  const handleCategorySelect = (selectedCategory: Category) => {
-    setCategory(selectedCategory.fileName);
-    if (learningMode === "startLearning") {
-      setCurrentPage("startLearning");
-    } else if (learningMode === "practiceGender") {
-      setCurrentPage("practiceGender");
-    } else if (learningMode === "practiceTyping") {
-      setCurrentPage("practiceTyping");
-    }
-  };
-
-  const handleGoBack = () => {
-    setInitialWordId(null);
-    if (
-      ["startLearning", "practiceGender", "practiceTyping"].includes(
-        currentPage
-      )
-    ) {
-      setCurrentPage("categorySelection");
-    } else if (currentPage === "categorySelection") {
-      setCurrentPage("home");
-    } else if (currentPage === "savedWords") {
-      setCurrentPage("home");
-    }
-  };
-
-  const handleHomeClick = () => {
-    setInitialWordId(null);
-    setCurrentPage("home");
-  };
-
-  const handleSavedWordSelect = (word: Word) => {
-    setCategory(word.category);
-    setInitialWordId(word.id);
-    setCurrentPage("startLearning");
-  };
 
   const primaryColor = colorScheme === "dark" ? "gray" : "dark";
 
@@ -113,7 +68,7 @@ function App() {
             handleModeSelect={handleModeSelect}
             handleCategorySelect={handleCategorySelect}
             handleGoBack={handleGoBack}
-            handleSavedWordSelect={handleSavedWordSelect}
+            onWordSelect={handleSavedWordSelect}
           />
         </AppShell.Main>
       </AppShell>

@@ -2,6 +2,9 @@ body {
   background-color: var(--mantine-color-gray-0);
   color: var(--mantine-color-black);
 }
+.mantine-AppShell-main{
+  margin-top: -50px;
+}
 
 [data-mantine-color-scheme="dark"] body {
   background-image: url("/dark_bg_02.png");
@@ -47,10 +50,10 @@ body {
 [data-mantine-color-scheme="light"] .mantine-ActionIcon-root {
   background: rgba(255, 255, 255, 0.2);
   /* border-radius: 16px; */
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(100px);
-  -webkit-backdrop-filter: blur(100px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  /* box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); */
+  /* backdrop-filter: blur(100px); */
+  /* -webkit-backdrop-filter: blur(100px); */
+  /* border: 1px solid rgba(255, 255, 255, 0.3); */
   color: white;
 }
 

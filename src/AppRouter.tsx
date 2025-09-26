@@ -16,7 +16,7 @@ interface AppRouterProps {
   handleModeSelect: (mode: LearningMode) => void;
   handleCategorySelect: (category: Category) => void;
   handleGoBack: () => void;
-  handleSavedWordSelect: (word: Word) => void;
+  onWordSelect: (word: Word) => void;
 }
 
 const pageVariants = {
@@ -41,9 +41,11 @@ export function AppRouter({
   currentPage,
   learningMode,
   category,
+  initialWordId,
   handleModeSelect,
   handleCategorySelect,
   handleGoBack,
+  onWordSelect,
 }: AppRouterProps) {
   return (
     <AnimatePresence mode="wait">
@@ -87,6 +89,7 @@ export function AppRouter({
           <StartLearningPage
             category={category}
             onBack={handleGoBack}
+            initialWordId={initialWordId}
           />
         </motion.div>
       )}
@@ -123,9 +126,7 @@ export function AppRouter({
           variants={pageVariants}
           transition={pageTransition}
         >
-          <SavedWordsPage
-            onBack={handleGoBack}
-          />
+          <SavedWordsPage onBack={handleGoBack} onWordSelect={onWordSelect} />
         </motion.div>
       )}
     </AnimatePresence>

@@ -97,7 +97,7 @@ export function PracticeTypingPage({
         <Text>{`${currentIndex + 1} / ${words.length}`}</Text>
       </Group>
 
-      <div style={{ flex: 1, perspective: "1000px", position: "relative" }}>
+     <div style={{ height: "400px", position: "relative" }}>
         <AnswerAnimation status={answerStatus} />
         <SpinnerCard
           word={currentWord}
